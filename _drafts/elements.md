@@ -389,8 +389,9 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <!-- Preformatted Code -->
 <h3>Preformatted</h3>
-<pre><code>i = 0;
 
+{% highlight html %}
+i = 0;
 while (!deck.isInOrder()) {
     print 'Iteration ' + i;
     deck.shuffle();
@@ -398,11 +399,6 @@ while (!deck.isInOrder()) {
 }
 
 print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
-{% highlight html %}
-<button type="button" class="ds-btn active">Default</button>
-<button type="button" class="ds-btn primary active">Primary</button>
 {% endhighlight %}
 
 </div>
