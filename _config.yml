@@ -10,8 +10,8 @@ title_bold: Liu Cheng
 title_normal: (Willow)
 email: willow.liucheng@gmail.com
 description: The central hub to host Liu Cheng's blog and portfolio, which are made by love.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://willowcheng.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "https://willowcheng.github.io"
 author: Liu Cheng
 city: Ottawa
 state: Ontario
@@ -35,16 +35,27 @@ linkedin_url: https://www.linkedin.com/in/willowliucheng
 instagram_url: https://www.instagram.com/willowcheng/
 twitter_url: https://twitter.com/willow_cheng
 
-# Build settings
+# Dependencies
 markdown: kramdown
+highlighter: rouge
+
+# Permalink
+permalink: pretty
 
 # Plugin: jekyll-seo-tag
 twitter:
   username: willow_cheng
+
 # Add one or more of the following
 facebook:
   app_id:
   publisher:
   admins:
 logo:
-google_site_verification: 
+google_site_verification:
+
+sass:
+  style: :compressed
+
+cdn:
+  fontawesome: //cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css

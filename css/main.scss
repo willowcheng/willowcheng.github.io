@@ -1,8 +1,11 @@
+---
+# The main stylesheet from Forty theme
+---
+
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/skel';
-@import 'font-awesome.min.css';
 
 /*
 	Forty by HTML5 UP
@@ -78,6 +81,4 @@
 
 // Customized
 
-body {
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;;
-}
+	@import 'customize';
