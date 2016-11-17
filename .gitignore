@@ -1,9 +1,6 @@
 # macOS
 .DS_Store
 
-# Jetbrain
-.idea/
-
 # Jekyll
 _site/
 .sass-cache/
