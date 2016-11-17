@@ -400,6 +400,11 @@ while (!deck.isInOrder()) {
 print 'It took ' + i + ' iterations to sort the deck.';
 </code></pre>
 
+{% highlight html %}
+<button type="button" class="ds-btn active">Default</button>
+<button type="button" class="ds-btn primary active">Primary</button>
+{% endhighlight %}
+
 </div>
 </div>
 
