@@ -1,0 +1,50 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title_bold: Liu Cheng
+title_normal: (Willow)
+email: willow.liucheng@gmail.com
+description: The central hub to host Liu Cheng's blog and portfolio, which are made by love.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://willowcheng.github.io" # the base hostname & protocol for your site
+author: Liu Cheng
+city: Ottawa
+state: Ontario
+country: Canada
+phone_canada: +1 (613)261-6094
+phone_china: +86 186-1578-1919
+
+# Plugins
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages" 
+tiles-count: 6
+
+# Social settings
+github_url: https://github.com/willowcheng
+linkedin_url: https://www.linkedin.com/in/willowliucheng
+instagram_url: https://www.instagram.com/willowcheng/
+twitter_url: https://twitter.com/willow_cheng
+
+# Build settings
+markdown: kramdown
+
+# Plugin: jekyll-seo-tag
+twitter:
+  username: willow_cheng
+# Add one or more of the following
+facebook:
+  app_id:
+  publisher:
+  admins:
+logo:
+google_site_verification: 
