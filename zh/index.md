@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: 主页
 landing-title: 嗨, 我叫程柳
 order: 1
 lang: zh
