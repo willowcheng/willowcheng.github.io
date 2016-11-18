@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ipsum
-description: Nisl sed aliquam
-image: assets/images/pic04.jpg
+title: Consequat
+description: Ipsum dolor sit amet
+image: /assets/images/pic05.jpg
 comments: true
 ---
 

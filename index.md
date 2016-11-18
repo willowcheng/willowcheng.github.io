@@ -2,11 +2,6 @@
 layout: home
 title: Home
 landing-title: Hi, my name is Liu Cheng
-description: 
-image: 
-author: 
-nav-menu: 
-order: 1
 ---
 
 <!-- Banner -->
