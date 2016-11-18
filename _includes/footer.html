@@ -1,3 +1,4 @@
+{% if page.layout == "page" %}
 <!-- Contact -->
 <section id="contact">
 	<div class="inner">
@@ -34,13 +35,13 @@
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					{% if page.lang == "zh" %}
-						<span>中国: {{ site.phone_canada }}</span>
+						<span>中国: {{ site.phone }}</span>
 						<br>
-						<span>加拿大: {{ site.phone_china }}</span>
+						<span>加拿大: {{ site.zh.phone }}</span>
 					{% else %}
-						<span>Canada: {{ site.phone_canada }}</span>
+						<span>Canada: {{ site.phone }}</span>
 						<br>
-						<span>China: {{ site.phone_china }}</span>
+						<span>China: {{ site.zh.phone }}</span>
 					{% endif %}
 				</div>
 			</section>
@@ -60,6 +61,8 @@
 		</section>
 	</div>
 </section>
+
+{% endif %}
 
 <!-- Footer -->
 	<footer id="footer">

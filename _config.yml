@@ -16,8 +16,7 @@ author: Liu Cheng
 city: Ottawa
 state: Ontario
 country: Canada
-phone_canada: +1 (613)261-6094
-phone_china: +86 186-1578-1919
+phone: +1 (613)261-6094
 
 # Site settings in Chinese
 zh:
@@ -27,6 +26,7 @@ zh:
   city: 渥太华
   state: 安大略省
   country: 加拿大
+  phone: +86 186-1578-1919
 
 # Plugins
 gems:
