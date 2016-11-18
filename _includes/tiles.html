@@ -3,7 +3,7 @@
 	{% if site.tiles-source == 'posts' %}
         <article>
                 <span class="image">
-                        <img src="{{ post.image }}" alt="" />
+                        <img src="{{ site.baseurl }}{{ post.image }}" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="{{ site.baseurl }}{% if page.lang == 'zh' %}/zh{% endif %}{{ post.url }}" class="link">{{ post.title }}</a></h3>
@@ -16,7 +16,7 @@
 	{% if site.tiles-source == 'pages' %}
         <article>
                 <span class="image">
-                        <img src="{{ page.image }}" alt="" />
+                        <img src="{{ site.baseurl }}{{ page.image }}" alt="" />
                 </span>
                 <header class="major">
                         <h3><a href="{{ site.baseurl }}{% if page.lang == 'zh' %}/zh{% endif %}{{ page.url}}" class="link">{{ page.title }}</a></h3>

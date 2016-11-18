@@ -2,7 +2,7 @@
 layout: post
 title: 关于
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: /assets/images/pic11.jpg
 lang: zh
 ---
 

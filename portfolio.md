@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
-image: assets/images/pic07.jpg
+image: /assets/images/pic07.jpg
 ---
 
 <!-- Main -->

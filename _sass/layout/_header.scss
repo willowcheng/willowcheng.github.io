@@ -216,12 +216,15 @@
 
 		@include breakpoint(xsmall) {
 			.logo {
+
+				display: none;
 				span {
 					display: none;
 				}
 			}
 
 			nav {
+				justify-content: space-between;
 				a {
 					&[href="#menu"] {
 						overflow: hidden;

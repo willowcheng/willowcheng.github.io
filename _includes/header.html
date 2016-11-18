@@ -2,7 +2,7 @@
 <div id="wrapper">
 
 <!-- Header -->
-<header id="header" {% if page.layout == "page" %} class="alt style2" {% endif %}{% if page.layout == "home" %} class="alt" {% endif %}>
+<header id="header">
 	<a href="{{ site.url }}{{ site.baseurl }}{% if page.lang == 'zh' %}/zh{% endif %}" class="logo">
 		<strong>
 			{% if page.lang == "zh" %}
@@ -20,8 +20,9 @@
 		</span>
 	</a>
 	<nav>
-		<a class="button {% if page.lang == 'zh' %}special inactive{% endif %} small zh switch" href="/zh{{ page.url }}"> 中</a>
-		<a class="button {% if page.lang != 'zh' %}special inactive{% endif %} small en switch" href="{{ page.url | replace: '/zh', '' }}">EN</a>
+		<span>
+			<a class="button {% if page.lang == 'zh' %}special inactive{% endif %} small zh switch" href="/zh{{ page.url }}">中</a><a class="button {% if page.lang != 'zh' %}special inactive{% endif %} small en switch" href="{{ page.url | replace: '/zh', '' }}">EN</a>
+		</span>
 		<a href="#menu">
 			{% if page.lang == "zh" %}
 				菜单
