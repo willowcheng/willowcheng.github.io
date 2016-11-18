@@ -1,16 +1,30 @@
 <section id="one" class="tiles">
 	{% for post in site.posts limit:site.tiles-count %}
-	{% if site.tiles-source == 'posts' %}
-        <article>
-                <span class="image">
+        {% if page.lang == "zh" %}
+            {% if post.category == "zh" %}
+                <article>
+                    <span class="image">
                         <img src="{{ site.baseurl }}{{ post.image }}" alt="" />
-                </span>
-                <header class="major">
-                        <h3><a href="{{ site.baseurl }}{% if page.lang == 'zh' %}/zh{% endif %}{{ post.url }}" class="link">{{ post.title }}</a></h3>
+                    </span>
+                    <header class="major">
+                        <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link">{{ post.title }}</a></h3>
                         <p>{{ post.description }}</p>
-                </header>
-        </article>
-	{% endif %}
+                    </header>
+                </article>
+            {% endif %}
+        {% else %}
+            {% if post.category != "zh" %}
+                <article>
+                    <span class="image">
+                        <img src="{{ site.baseurl }}{{ post.image }}" alt="" />
+                    </span>
+                    <header class="major">
+                        <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link">{{ post.title }}</a></h3>
+                        <p>{{ post.description }}</p>
+                    </header>
+                </article>
+            {% endif %}
+        {% endif %}
 	{% endfor %}
 	{% for page in site.pages limit:site.tiles-count %}
 	{% if site.tiles-source == 'pages' %}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+
+<!-- Main -->
+<div id="main" class="alt">
+
+    <!-- One -->
+    <section id="one">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.title }}</h1>
+                {% if page.tag %}<p class="icon fa-tag"> {{ page.tag }}</p>{% endif %}
+                {% if page.link %}<p class="icon fa-link"> {{ page.link }} <a class="icon fa-arrow-circle-right" href="{{ page.link }}"></a></p>{% endif %}
+            </header>
+            <p>{{ content }}</p>
+
+            {% if page.comments %}
+            <div>
+                <div id="disqus_thread"></div>
+                <script>
+                    var disqus_config = function () {
+                        this.page.url = "{{ site.url }}";
+                        this.page.identifier = "{{ page.url }}";
+                    };
+                    (function() { // DON'T EDIT BELOW THIS LINE
+                        var d = document, s = d.createElement('script');
+                        s.src = '//liu-cheng.disqus.com/embed.js';
+                        s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            </div>
+            {% endif %}
+        </div>
+    </section>
+
+</div>
+
+{% include footer.html %}
+
+</body>
+
+</html>

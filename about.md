@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: project
 title: About
-description: Lorem ipsum dolor est
-image: /assets/images/pic11.jpg
+image: /assets/img/pic11.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

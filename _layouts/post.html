@@ -16,8 +16,9 @@
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.title }}</h1>
+			<p class="icon fa-tag"> {{ page.tag }}</p>
+			{% if page.link %}<p class="icon fa-link"> {{ page.link }} <a class="icon fa-arrow-circle-right" href="{{ page.link }}"></a></p>{% endif %}
 		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ content }}</p>
 
 		{% if page.comments %}
