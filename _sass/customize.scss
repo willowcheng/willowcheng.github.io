@@ -1,0 +1,16 @@
+#header nav a.button.small.switch {
+  line-height: 30px;
+  margin-top: 12px;
+  height: 30px;
+  &.zh {
+    padding-right: 8px;
+    padding-left: 13px;
+  }
+  &.en {
+    margin-right:24px;
+  }
+  &.inactive {
+    pointer-events: none;
+    cursor: default;
+  }
+}

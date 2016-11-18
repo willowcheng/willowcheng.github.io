@@ -3,8 +3,6 @@ layout: page
 title: Blog
 description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
 image: assets/images/pic07.jpg
-nav-menu: yes
-order: 2
 ---
 
 <!-- Main -->

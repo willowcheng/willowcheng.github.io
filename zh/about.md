@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Tempus
-description: Feugiat amet tempus
-image: assets/images/pic02.jpg
-comments: true
+title: 关于
+description: Lorem ipsum dolor est
+image: assets/images/pic11.jpg
+lang: zh
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

@@ -2,21 +2,54 @@
 <div id="wrapper">
 
 <!-- Header -->
-<header id="header" {% if page.layout == "landing" %} class="alt style2" {% endif %}{% if page.layout == "home" %} class="alt" {% endif %}>
-	<a href="{{ site.url }}{{ site.baseurl }}" class="logo"><strong>{{ site.title_bold }}</strong> <span>{{ site.title_normal }}</span></a>
+<header id="header" {% if page.layout == "page" %} class="alt style2" {% endif %}{% if page.layout == "home" %} class="alt" {% endif %}>
+	<a href="{{ site.url }}{{ site.baseurl }}{% if page.lang == 'zh' %}/zh{% endif %}" class="logo">
+		<strong>
+			{% if page.lang == "zh" %}
+				{{ site.zh.title_bold }}
+			{% else %}
+				{{ site.title_bold }}
+			{% endif %}
+		</strong>
+		<span>
+			{% if page.lang == "zh" %}
+				{{ site.zh.title_normal }}
+			{% else %}
+				{{ site.title_normal }}
+			{% endif %}
+		</span>
+	</a>
 	<nav>
-		<a href="#menu">Menu</a>
+		<a class="button {% if page.lang == 'zh' %}special inactive{% endif %} small zh switch" href="/zh{{ page.url }}"> 中</a>
+		<a class="button {% if page.lang != 'zh' %}special inactive{% endif %} small en switch" href="{{ page.url | replace: '/zh', '' }}">EN</a>
+		<a href="#menu">
+			{% if page.lang == "zh" %}
+				菜单
+			{% else %}
+				Menu
+			{% endif %}
+		</a>
 	</nav>
 </header>
 
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
+		{% if page.lang == "zh" %}
+			<li><a href="/zh">主页</a></li>
+			<li><a href="/zh/blog">博客</a></li>
+			<li><a href="/zh/about">关于</a></li>
+		{% else %}
 		<li><a href="/">Home</a></li>
 		<li><a href="/blog">Blog</a></li>
 		<li><a href="/about">about</a></li>
+		{% endif %}
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="/portfolio" class="button special fit">Portfolio</a></li>
+		{% if page.lang == "zh" %}
+		<li><a href="/zh/portfolio" class="button special fit">个人作品</a></li>
+		{% else %}
+			<li><a href="/portfolio" class="button special fit">Portfolio</a></li>
+		{% endif %}
 	</ul>
 </nav>

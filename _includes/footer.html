@@ -4,20 +4,20 @@
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
-					<label for="name">Name</label>
+					<label for="name">{% if page.lang == "zh" %}姓名{% else %}Name{% endif %}</label>
 					<input type="text" name="name" id="name" />
 				</div>
 				<div class="field half">
-					<label for="email">Email</label>
+					<label for="email">{% if page.lang == "zh" %}电子邮箱{% else %}Email{% endif %}</label>
 					<input type="text" name="_replyto" id="email" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
+					<label for="message">{% if page.lang == "zh" %}消息{% else %}Message{% endif %}</label>
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
+					<li><input type="submit" value="{% if page.lang == 'zh' %}发送消息{% else %}Send Message{% endif %}" class="special" /></li>
+					<li><input type="reset" value="{% if page.lang == 'zh' %}清空{% else %}Clear{% endif %}" /></li>
 				</ul>
 			</form>
 		</section>
@@ -25,7 +25,7 @@
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
+					<h3>{% if page.lang == "zh" %}电子邮箱{% else %}Email{% endif %}</h3>
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
@@ -33,16 +33,28 @@
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
-					<span>Canada: {{ site.phone_canada }}</span>
-					<br>
-					<span>China: {{ site.phone_china }}</span>
+					{% if page.lang == "zh" %}
+						<span>中国: {{ site.phone_canada }}</span>
+						<br>
+						<span>加拿大: {{ site.phone_china }}</span>
+					{% else %}
+						<span>Canada: {{ site.phone_canada }}</span>
+						<br>
+						<span>China: {{ site.phone_china }}</span>
+					{% endif %}
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Location</h3>
-					<span>{{ site.city }}, {{ site.state }}, {{ site.country }}</span>
+					<span class="icon alt fa-map-pin"></span>
+					<h3>{% if page.lang == "zh" %}当前地点{% else %}Location{% endif %}</h3>
+					<span>
+						{% if page.lang == "zh" %}
+							{{ site.zh.city }}, {{ site.zh.state }}, {{ site.zh.country }}
+						{% else %}
+							{{ site.city }}, {{ site.state }}, {{ site.country }}
+						{% endif %}
+					</span>
 				</div>
 			</section>
 		</section>
@@ -59,8 +71,10 @@
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ site.title_bold }}</li>
-				<li>Base Theme: <a href="https://github.com/willowcheng/Forty-Jekyll-Theme" target="_blank">Forty</a></li>
+				<li>
+					&copy; {% if page.lang == "zh" %}{{ site.zh.title_bold }}{% else %}{{ site.title_bold }}{% endif %}
+				</li>
+				<li>{% if page.lang == "zh" %}基础主题：{% else %}Base Theme:{% endif %} <a href="https://github.com/andrewbanchich/Forty-Jekyll-Theme" target="_blank">Forty</a></li>
 				
 			</ul>
 		</div>
