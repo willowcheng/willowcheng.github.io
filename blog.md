@@ -9,7 +9,7 @@ title: Blog
 <section id="two" class="spotlights">
 	{% for post in site.posts limit:site.tiles-count %}
         {% if page.lang != "zh" %}
-            {% if post.category != "zh" %}
+            {% if post.lang != "zh" %}
                 <section>
             		<a href="{{ site.baseurl }}{{ post.image }}" class="image">
             			<img src="{{ site.baseurl }}{{ post.image }}" alt="" data-position="center center" />

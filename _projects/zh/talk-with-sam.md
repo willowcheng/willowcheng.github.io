@@ -6,7 +6,7 @@ image: /assets/img/talk-with-sam.jpg
 tag: iOS | 设计 | 开发
 link: http://www.talkwithsam.co
 lang: zh
-permalink: /zh/projects/talk-with-sam/
+permalink: /zh/projects/talk-with-sam.html
 ---
 
 <div class="row">
