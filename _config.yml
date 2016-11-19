@@ -26,6 +26,7 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jemoji
 
 collections:
   projects:
@@ -43,10 +44,9 @@ twitter_url: https://twitter.com/willow_cheng
 
 # Dependencies
 markdown: kramdown
-highlighter: rouge
 
 # Permalink
-permalink: /:categories/:year-:month-:day-:title
+permalink: /:year-:month-:day-:title
 
 # Plugin: jekyll-seo-tag
 twitter:
@@ -70,3 +70,5 @@ cdn:
 exclude:
   - README.md
   - LICENSE.md
+  - Gemfile
+  - Gemfile.lock

@@ -1,7 +1,7 @@
 <section id="one" class="tiles">
 	{% for post in site.projects limit:site.tiles-count %}
         {% if page.lang == "zh" %}
-            {% if post.category == "zh" %}
+            {% if post.lang == "zh" %}
                 <article>
                     <span class="image">
                         <img src="{{ site.baseurl }}{{ post.image }}" alt="" />
@@ -14,7 +14,7 @@
                 </article>
             {% endif %}
         {% else %}
-            {% if post.category != "zh" %}
+            {% if post.lang != "zh" %}
                 <article>
                     <span class="image">
                         <img src="{{ site.baseurl }}{{ post.image }}" alt="" />

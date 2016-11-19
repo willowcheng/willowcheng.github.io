@@ -6,10 +6,9 @@ image: /assets/img/talk-with-sam.jpg
 tag: iOS | 设计 | 开发
 link: http://www.talkwithsam.co
 lang: zh
-category: zh
+permalink: /zh/projects/talk-with-sam/
 ---
 
-<div class="marvel">
 <div class="row">
 	<div class="5u 12u$(medium) 12u$(small) marvel">
         <iframe src="https://marvelapp.com/89gc5d?emb=1" width="339" height="656" allowTransparency="true" frameborder="0"></iframe>
@@ -21,5 +20,34 @@ category: zh
     <img src="/assets/img/talk-with-sam-reward.jpg" style="width: 100%;" />
     <p>第一笔资金来自于 2016 年北卡罗来纳大学比赛第二名的奖金，8000 美金。现在我们也在寻求更多的投资。</p>
     <a class="download badge" href="https://itunes.apple.com/cn/app/talk-sam-30miao-zhao-huan/id1021855565?mt=8"><img src="/assets/img/app-store-download.svg"/></a>
+    </div>
+</div>
+
+---
+
+
+<div class="row">
+    <div class="4u 12u$(medium) 12u$(small)">
+        <p>除了现有 iOS 应用上的界面，在设计之初我还做了另外两种方案。即使最后只能选择一种方案，多样设计给整个团队对产品的思考是非常有意义的。</p>
+        <p>额外方案 1</p>
+        <ul>
+            <li>界面风格相对可爱</li>
+            <li>鼓励用户每日完成特定的目标</li>
+            <li>话题分类</li>
+        </ul>
+        <p>额外方案2 2</p>
+        <ul>
+            <li>界面大量使用动画，小的三角形可以碰撞物体产生特定行为</li>
+            <li>让用户把应用看作是游戏</li>
+            <li>主界面基本不使用图片，让用户集中注意力</li>
+        </ul>
+    </div>
+	<div class="4u 6u(medium) 12u$(small) marvel column">
+        <iframe src="https://marvelapp.com/cefbfi?emb=1" width="339" height="656" allowTransparency="true" frameborder="0"></iframe>
+        <p class="centered">额外方案 1</p>
+    </div>
+    <div class="4u$ 6u$(medium) 12u$(small) marvel column">
+        <iframe src="https://marvelapp.com/159ch79?emb=1" width="339" height="656" allowTransparency="true" frameborder="0"></iframe>
+        <p class="centered">额外方案2 2</p>
     </div>
 </div>

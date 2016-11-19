@@ -23,10 +23,16 @@
 .marvel {
   display: flex;
   justify-content: center;
+  align-items: center;
+  &.column {
+    flex-direction: column;
+  }
 }
 
 .download.badge {
   border-bottom: none;
 }
 
-
+.centered {
+  text-align: center;
+}
