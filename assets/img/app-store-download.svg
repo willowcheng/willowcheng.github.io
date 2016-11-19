@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="45px" viewBox="0 0 141 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Apple App Store - Large</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-149.000000, -398.000000)">
+            <g id="Apple-App-Store---Large" transform="translate(149.000000, 397.000000)">
+                <path d="M132.646992,45.9529106 L7.70015023,45.9529106 C3.44783818,45.9529106 0,42.7179964 0,38.7300806 L0,8.22099792 C0,4.23369283 3.44783818,1 7.70015023,1 L132.646992,1 C136.89735,1 140.022096,4.23369283 140.022096,8.22099792 L140.022096,39.4855249 C140.022096,43.4734407 136.89735,45.9529106 132.646992,45.9529106 Z" id="container" fill="#FFFFFF"></path>
+                <path d="M13.2924099,8 C12.0263469,8 11,9.1216205 11,10.5106012 L11,36.4893988 C11,37.8759656 12.0252116,39 13.2924099,39 L24.7075901,39 C25.9736531,39 27,37.8783795 27,36.4893988 L27,10.5106012 C27,9.12403444 25.9747884,8 24.7075901,8 L13.2924099,8 L13.2924099,8 Z M12.5,12.0655738 L12.5,34.9344262 L25.5,34.9344262 L25.5,12.0655738 L12.5,12.0655738 L12.5,12.0655738 Z M19,37.9836066 C19.5522847,37.9836066 20,37.5285517 20,36.9672131 C20,36.4058745 19.5522847,35.9508197 19,35.9508197 C18.4477153,35.9508197 18,36.4058745 18,36.9672131 C18,37.5285517 18.4477153,37.9836066 19,37.9836066 L19,37.9836066 Z M17,10.0327869 C17,10.3134562 17.171875,10.5409836 17.398159,10.5409836 L20.601841,10.5409836 C20.8217381,10.5409836 21,10.3052478 21,10.0327869 C21,9.75211759 20.828125,9.52459016 20.601841,9.52459016 L17.398159,9.52459016 C17.1782619,9.52459016 17,9.76032595 17,10.0327869 Z" id="iPhone-Vector" fill="#5D5D5D"></path>
+                <text id="Available-on-the" font-family="MyriadPro-Regular, Myriad Pro" font-size="12" font-weight="normal" letter-spacing="0.239999995" fill="#606060">
+                    <tspan x="34.1025641" y="17.2307692">Available on the</tspan>
+                </text>
+                <text id="App-Store" font-family="MyriadPro-Regular, Myriad Pro" font-size="22.8765961" font-weight="normal" letter-spacing="-0.809999883" fill="#606060">
+                    <tspan x="34.1025641" y="36.0769231">App Store</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

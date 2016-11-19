@@ -59,4 +59,8 @@
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
+		&.circle {
+			border-radius: 50%;
+			border: 2px solid #fff;
+		}
 	}
