@@ -5,6 +5,8 @@ image: /assets/img/pic11.jpg
 lang: zh
 ---
 
+<img class="image left" src="/assets/img/liu-cheng.jpg" />
+
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
 Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 

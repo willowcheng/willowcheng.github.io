@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Landing
 description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
 image: 
