@@ -12,7 +12,7 @@ category: zh
 <div class="marvel">
 <div class="row">
 	<div class="5u 12u$(medium) 12u$(small) marvel">
-        <iframe src="https://marvelapp.com/89gc5d?emb=1" width="339" height="676" allowTransparency="true" frameborder="0"></iframe>
+        <iframe src="https://marvelapp.com/89gc5d?emb=1" width="339" height="656" allowTransparency="true" frameborder="0"></iframe>
     </div>
     <div class="7u$ 12u$(medium) 12u$(small)">
     <p>Talk With Sam 最开始是由包括我在内的几位留学加拿大和美国的中国学生制作的。我主要贡献在 iOS 客户端的界面设计与开发。</p>

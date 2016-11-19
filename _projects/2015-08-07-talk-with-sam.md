@@ -10,7 +10,7 @@ link: http://www.talkwithsam.co
 <div class="marvel">
 <div class="row">
 	<div class="5u 12u$(medium) 12u$(small) marvel">
-        <iframe src="https://marvelapp.com/89gc5d?emb=1" width="339" height="676" allowTransparency="true" frameborder="0"></iframe>
+        <iframe src="https://marvelapp.com/89gc5d?emb=1" width="339" height="656" allowTransparency="true" frameborder="0"></iframe>
     </div>
     <div class="7u$ 12u$(medium) 12u$(small)">
     <p>Talk With Sam is developed by several students in Canada and USA. I'm the main contributor to iOS mobile UI design and development.</p>
