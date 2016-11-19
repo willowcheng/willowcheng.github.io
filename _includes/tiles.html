@@ -1,5 +1,5 @@
 <section id="one" class="tiles">
-	{% for post in site.posts limit:site.tiles-count %}
+	{% for post in site.projects limit:site.tiles-count %}
         {% if page.lang == "zh" %}
             {% if post.category == "zh" %}
                 <article>

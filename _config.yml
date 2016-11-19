@@ -27,6 +27,10 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
 
+collections:
+  projects:
+    output: true
+
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages" 
 tiles-count: 6
