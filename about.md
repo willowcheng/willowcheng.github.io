@@ -1,23 +1,19 @@
 ---
 layout: project
 title: About
-image: /assets/img/pic11.jpg
+tag: thinking | creative
 ---
 
 <img class="image left" src="/assets/img/liu-cheng.jpg" />
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+My name is **Liu Cheng**, graduated from **University of Ottawa**. Now a **front-end developer** in **Trend Micro Inc.** located in Ottawa, Canada.
+Influenced by Massive Open Online Courses (MOOC), I learned lots of courses in application development, cooking, English writing and etc., which I believe life-long learning is my best weapon.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+For application developer which is my career, user interface (UI) is most attractive to me. After mobile and web development learning journey, I now focus on the balance between design and development.
+I enjoyed a lot in surfing in open source projects and we do have a powerful community for developers called Github.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+In my daily, I love to play guitar and organize including both digital files and real world objects. 
+Ottawa is a small city and it's very quiet when winter comes. Looking at the snow scene outside, I feel the peace of my mind. 
+
+By a chance provided from my university in China, I finished my fourth year exchange student and Master in Canada.
+I now appreciate what Canadians say about being understanding, which I rarely realize in China.
