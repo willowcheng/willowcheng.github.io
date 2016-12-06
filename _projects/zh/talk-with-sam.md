@@ -6,7 +6,7 @@ image: /assets/img/talk-with-sam.jpg
 tag: iOS | 设计 | 开发
 link: http://www.talkwithsam.co
 lang: zh
-permalink: /zh/projects/talk-with-sam.html
+permalink: /zh/projects/talk-with-sam/
 ---
 
 <div class="row">
@@ -48,6 +48,6 @@ permalink: /zh/projects/talk-with-sam.html
     </div>
     <div class="4u$ 6u$(medium) 12u$(small) marvel column">
         <iframe src="https://marvelapp.com/159ch79?emb=1" width="339" height="656" allowTransparency="true" frameborder="0"></iframe>
-        <p class="centered">额外方案2 2</p>
+        <p class="centered">额外方案 2</p>
     </div>
 </div>

@@ -5,7 +5,7 @@ description: An iOS app for English speaking practice
 image: /assets/img/talk-with-sam.jpg
 tag: iOS | design | development
 link: http://www.talkwithsam.co
-permalink: /projects/talk-with-sam.html
+permalink: /projects/talk-with-sam/
 ---
 
 <div class="row">

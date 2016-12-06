@@ -46,7 +46,7 @@ twitter_url: https://twitter.com/willow_cheng
 markdown: kramdown
 
 # Permalink
-permalink: /:year-:month-:day-:title
+permalink: pretty
 
 # Plugin: jekyll-seo-tag
 twitter:

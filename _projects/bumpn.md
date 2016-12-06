@@ -6,7 +6,7 @@ image: /assets/img/bumpn.jpg
 tag: iOS | design
 link: https://bumpn.com
 bilingual: no
-permalink: /projects/bumpn.html
+permalink: /projects/bumpn/
 ---
 
 <div class="row">
