@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Wooko
 description: 寻找导师辅导正在学习的课程的移动应用
 image: /assets/img/wooko.jpg

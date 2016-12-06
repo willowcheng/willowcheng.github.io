@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Talk With Sam
 description: An iOS app for English speaking practice
 image: /assets/img/talk-with-sam.jpg

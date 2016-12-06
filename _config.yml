@@ -21,16 +21,33 @@ zh:
   country: 加拿大
   phone: +86 186-1578-1919
 
+# Custom collections
+collections:
+  projects:
+    output: true
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
 # Plugins
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jemoji
-
-collections:
-  projects:
-    output: true
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages" 
