@@ -30,7 +30,7 @@ permalink: /zh/2017/02/16/create-avatar-based-on-material-design/
 
 ![](http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2014/06/google-design-google-plus-cover-material.jpg)
 
-————————华丽分割线————————
+——————华丽分割线————————
 
 开工。首先是紫色的背景，没什么特别的思考，因为构想是有白色存在，所以深色背景会很搭。
 
