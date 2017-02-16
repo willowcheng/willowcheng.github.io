@@ -25,6 +25,8 @@ zh:
 collections:
   projects:
     output: true
+  posts:
+    output: true
 
 # Default settings
 defaults:
