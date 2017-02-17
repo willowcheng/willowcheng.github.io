@@ -30,7 +30,7 @@ permalink: /zh/2017/02/16/create-avatar-based-on-material-design/
 
 ![](http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2014/06/google-design-google-plus-cover-material.jpg)
 
-——————华丽分割线————————
+——————华丽分割线——————
 
 开工。首先是紫色的背景，没什么特别的思考，因为构想是有白色存在，所以深色背景会很搭。
 
@@ -47,7 +47,7 @@ permalink: /zh/2017/02/16/create-avatar-based-on-material-design/
 
 ![](/assets/img/avatar-design-3.png)
 
-这里有个小技巧，通过 Sketch 的样式复制与粘贴可以快速生成相同样式图层。图中青色使用的是第一层高度阴影
+再来个小技巧，通过 Sketch 的样式复制与粘贴可以快速生成相同样式图层。图中青色使用的是第一层高度阴影
 
 ![](/assets/img/avatar-design-4.png)
 
@@ -55,7 +55,7 @@ permalink: /zh/2017/02/16/create-avatar-based-on-material-design/
 
 ![](/assets/img/avatar-design-5.png)
 
-这里的灵感来源于舞台幕布，就像把 ❤️ 捧出来的感觉一样，同时不对称的摆放本身也很自然。
+灵感突显，想用两个长方块营造类似舞台幕布拉开后的情景，就像把 ❤️ 捧出来的感觉一样，同时不对称的摆放本身也很自然。
 
 ![](/assets/img/avatar-design-6.png)
 
