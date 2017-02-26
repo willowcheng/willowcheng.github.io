@@ -21,7 +21,7 @@ title: Blog
             				</header>
             				<p>{{ post.description }}</p>
             				<ul class="actions">
-            					<li><a href="{{ site.baseurl }}{{ post.url }}" class="button">阅读</a></li>
+            					<li><a href="{{ site.baseurl }}{{ post.url }}" class="button">Read</a></li>
             				</ul>
             			</div>
             		</div>

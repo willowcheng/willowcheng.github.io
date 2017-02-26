@@ -1,10 +1,9 @@
 ---
-title: SVG／CSS 动画练习 - 沙丘甲壳虫
+title: CSS 动画练习 - 沙丘甲壳虫
 description: 学了 CSS 动画一直苦于没有好的想法该练习什么，去了趟车展看到敞篷的沙丘甲壳虫顿时让我心动啊，所以想画个抽象的甲壳虫前脸来做，哈哈～
 tag: 设计, 动画
 image: /assets/img/beetle-dune-colored.jpg
 lang: zh
-bilingual: no
 permalink: /zh/2017/02/25/beetle-dune-svg-animation/
 ---
 
@@ -28,7 +27,7 @@ permalink: /zh/2017/02/25/beetle-dune-svg-animation/
 
 1. 在轮廓的线条生成上用到了 [Treehouse](http://referrals.trhou.se/willowcheng) 上教的一个伪虚线控制小技巧。试验出线条长度，然后通过 `stroke-dasharray` 和 `stroke-dashoffset` 的变化勾勒线条。好比是虚线变成实线，只是这里虚线长度非常大，而造成了假象 :grinning:（详情见 CodePen HTML/CSS 代码）
 
-2. 左右大灯显示是通过 `scale()` 来控制的，在显示接近完成，比如 80% 的时候，调成 `scale(1.1)`，增大为 1.1 倍 再回到正常尺寸，可以有更自然的视觉效果，放佛元素有一定弹性
+2. 左右大灯显示是通过 `scale()` 来控制的，在显示接近完成，比如 80% 的时候，调成 `scale(1.1)`，增大为 1.1 倍再回到正常尺寸，可以有更自然的视觉效果，放佛元素有一定弹性
 
 3. 挡风玻璃和进气格栅下的线用到了 `rotateY()` 来控制，坐标系里以 Y 轴为垂直轴承转动，从 90 度变成 0／180 度，就可以有从中间向外展开的效果
 
