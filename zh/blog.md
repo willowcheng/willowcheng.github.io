@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 博客
+description: 一些突然的灵感，偶尔的感悟，激励自己的东西
 lang: zh
 ---
 
@@ -11,7 +12,7 @@ lang: zh
 	{% for post in site.posts limit:site.tiles-count %}
         {% if post.lang == "zh" %}
             <section>
-                <a href="{{ site.baseurl }}{{ post.image }}" class="image">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="image">
                     <img src="{{ site.baseurl }}{{ post.image }}" alt="" data-position="center center" />
                 </a>
                 <div class="content">

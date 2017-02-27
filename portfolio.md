@@ -1,5 +1,6 @@
 ---
 layout: page
+description: Remove boundary of design and development, and make things motivated
 title: Portfolio
 ---
 

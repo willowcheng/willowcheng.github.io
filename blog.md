@@ -1,5 +1,6 @@
 ---
 layout: page
+description: Occasion inspiration from life journey and hopefully got engaged
 title: Blog
 ---
 
@@ -11,7 +12,7 @@ title: Blog
         {% if page.lang != "zh" %}
             {% if post.lang != "zh" %}
                 <section>
-            		<a href="{{ site.baseurl }}{{ post.image }}" class="image">
+            		<a href="{{ site.baseurl }}{{ post.url }}" class="image">
             			<img src="{{ site.baseurl }}{{ post.image }}" alt="" data-position="center center" />
             		</a>
             		<div class="content">
