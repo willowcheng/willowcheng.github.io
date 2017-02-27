@@ -5,7 +5,7 @@ tag: design, animation
 image: /assets/img/beetle-dune-colored.jpg
 ---
 
-LThe finalized graphic and animation in CodePen :smirk:
+The finalized graphic and animation in CodePen :smirk:
 
 <img src="/assets/img/beetle-dune-colored.jpg" style="width: 640px;"/>
 
