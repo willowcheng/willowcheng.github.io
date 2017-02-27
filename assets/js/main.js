@@ -237,7 +237,7 @@
 					if ($image.length > 0) {
 
 						// Set image.
-							$this.css('background-image', 'url(' + $img.attr('src') + ')');
+						// 	$this.css('background-image', 'url(' + $img.attr('src') + ')');
 
 						// Hide original.
 							$image.hide();
