@@ -20,6 +20,7 @@ title: Blog
             				<header class="major">
             					<h3>{{ post.title }}</h3>
             				</header>
+            				<p><em>{{ post.date | date: "%b %d, %Y"}}</em></p>
             				<p>{{ post.description }}</p>
             				<ul class="actions">
             					<li><a href="{{ site.baseurl }}{{ post.url }}" class="button">Read</a></li>

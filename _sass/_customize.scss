@@ -41,7 +41,7 @@ blockquote p {
   margin-bottom: 0;
 }
 
-img:not(.emoji):not(.badge) {
+img:not(.emoji):not(.badge):not(.avatar) {
   display: block;
   max-width: 100%;
   margin: auto;

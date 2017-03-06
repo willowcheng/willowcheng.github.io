@@ -5,7 +5,7 @@ tag: 思考 | 创造
 lang: zh
 ---
 
-<img class="image right" src="/assets/img/liu-cheng.jpg" />
+<img class="image right avatar" src="/assets/img/liu-cheng.jpg" />
 
 > 在觉得人生很平淡的时候，想想曾经精彩的片段
 <br>--- 2016 年 11 月 20 日

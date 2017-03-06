@@ -4,7 +4,7 @@ title: About
 tag: thinking | creative
 ---
 
-<img class="image left" src="/assets/img/liu-cheng.jpg" />
+<img class="image left avatar" src="/assets/img/liu-cheng.jpg" />
 
 My name is **Liu Cheng**, graduated from **University of Ottawa**. Now a **front-end developer** in **Trend Micro Inc.** located in Ottawa, Canada.
 Influenced by Massive Open Online Courses (MOOC), I learned lots of courses in application development, cooking, English writing and etc., which I believe life-long learning is my best weapon.

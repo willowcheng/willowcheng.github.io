@@ -4,6 +4,7 @@ description: 学了 CSS 动画一直苦于没有好的想法该练习什么，�
 tag: 设计, 动画
 image: /assets/img/beetle-dune-colored.jpg
 lang: zh
+date-zh: 2017年2月25日
 permalink: /zh/2017/02/25/beetle-dune-svg-animation/
 ---
 
