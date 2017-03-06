@@ -5,7 +5,6 @@ tag: 设计
 image: /assets/img/echo-avatar.png
 lang: zh
 bilingual: no
-date-zh: 2017年2月16日
 permalink: /zh/2017/02/16/create-avatar-based-on-material-design/
 ---
 
