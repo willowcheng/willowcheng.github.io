@@ -13,7 +13,7 @@ title: Portfolio
         {% if project.lang != "zh" %}
             <article>
                 <span class="image">
-                    <img src="{{ site.baseurl }}{{ project.image }}" alt="" />
+                    <img src="{{ site.baseurl }}{{ project.image }}" alt="{{ project.title }}" />
                 </span>
                 <header class="major">
                     <h3><a href="{{ site.baseurl }}{{ project.url }}" class="link">{{ project.title }}</a></h3>

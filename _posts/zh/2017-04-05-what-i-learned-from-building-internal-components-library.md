@@ -30,7 +30,7 @@ bilingual: no
 于是就从设计部分汲取了调色板 :art: 与排版 :pencil2: 这两部分。归根到底就是保持一致性，一致的美感、一致的基调，
 如果应用每个界面都不一样，那就好比一部电影里从日式动漫画风突然转到好莱坞大片风让人摸不着头脑。
 
-![](https://content.linkedin.com/content/dam/brand/site/img/color/color-palette-order.png)
+![领英调色板](https://content.linkedin.com/content/dam/brand/site/img/color/color-palette-order.png)
 
 看到一篇文章提到用音乐的和声与节拍理论创造排版，非常有趣：[《The rules of responsive web typography》](http://www.creativebloq.com/how-to/the-rules-of-responsive-web-typography)
 
@@ -43,7 +43,7 @@ HTML 常用的表义标签完了可以做诸如开关、标签之类需要运用
 界面库的都很常见。积木搭得越多，可变性就会少，对于内部组件库而言这个时候更应该有明确需要给逻辑开发者暴露多少自定义的空间。
 此外在交互方面设计也能在统一性上定义，比如色彩变化时的明暗度、透明度等等。
 
-![](https://lc-www-live-s.legocdn.com/r/www/r/dccomicssuperheroes/-/media/franchises/dc%20comics%20super%20heroes%202014/home/touts%20favorites/characters-2-720x430.jpg?l.r2=-1411488742)
+![乐高卡通图](https://lc-www-live-s.legocdn.com/r/www/r/dccomicssuperheroes/-/media/franchises/dc%20comics%20super%20heroes%202014/home/touts%20favorites/characters-2-720x430.jpg?l.r2=-1411488742)
 
 ## 2. 技术
 
@@ -57,7 +57,7 @@ HTML 常用的表义标签完了可以做诸如开关、标签之类需要运用
 
 中期模仿的对象主要是 Bootstrap 4 的源码，包括了他们构造静态网站的方式，深深感觉到只有阅读源码才能和业界保持水准。。。
 
-![](http://blog.farrant.me/content/images/2016/01/sass-monster.png)
+![SASS 怪兽](http://blog.farrant.me/content/images/2016/01/sass-monster.png)
 
 - **NPM** 对于 JS 生态圈包管理的意义非常大，相比 Bower 明确了依赖库之间的相互关系，从而有更好的效率。我最欣赏的是 `package.json`
 的引入，里面可以集成很多东西，很酷 :sunglasses:
@@ -71,7 +71,7 @@ HTML 常用的表义标签完了可以做诸如开关、标签之类需要运用
 
 最近一个月在另一个使用 React 做单页面应用团队推动下，构造技术终于来到了 2017 年（真的好不容易啊。。。）。
 
-![](https://cdn-images-1.medium.com/max/800/1*MRPl_SNuRGJchb6eOAnkSA.jpeg)
+![React 与 Angular 的战争](https://cdn-images-1.medium.com/max/800/1*MRPl_SNuRGJchb6eOAnkSA.jpeg)
 
 记得 2016 年初的时候找比较文章的时候常常出现这张图，想不到现在 React 已经统治了 :smiley: 最近参加了本地的 Javascript 的线下聚会，
 Vue 的讨论也变得更多了，估计近期会来尝试尝试（我更喜欢表义语言比如 HTML 和 CSS，纯JS 不是我的菜）。
@@ -114,7 +114,7 @@ Storybook Testing 里说到了 Structural Testing、Interaction Testing 和 CSS/
 - 在各种各样的试错后能让自己有更好的决定
 - 每次能够成功编译或是运行的时候还是会小兴奋一下～
 
-![](/assets/img/patterns-galaxy.jpg)
+![组件星球](/assets/img/patterns-galaxy.jpg)
 
 现在的进度在制作一些新页面会用到的组件，整体来看组件层面的 JS 代码难度要比逻辑实现要简单一些 :clap:。感觉现在写前端对初学者变得很陡峭了，
 主要是库太多，不好选啊，Progressive Web App 概念也在散开，Web 和原生应用的界限也开始模糊。相信在百家争鸣过后总会有大一统的时候吧，

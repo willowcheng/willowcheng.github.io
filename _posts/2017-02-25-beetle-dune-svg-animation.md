@@ -7,7 +7,7 @@ image: /assets/img/beetle-dune-colored.jpg
 
 The finalized graphic and animation in CodePen :smirk:
 
-<img src="/assets/img/beetle-dune-colored.jpg" style="width: 640px;"/>
+<img alt="Beetle dune in gradient background color" src="/assets/img/beetle-dune-colored.jpg" style="width: 640px;"/>
 
 <p data-height="420" data-theme-id="light" data-slug-hash="ZeYPOW" data-default-tab="result" data-preview="true" data-user="willowcheng" data-embed-version="2" data-pen-title="Beetle Dune SVG Animation" class="codepen">See the Pen <a href="http://codepen.io/willowcheng/pen/ZeYPOW/">Beetle Dune SVG Animation</a> by Liu Cheng (<a href="http://codepen.io/willowcheng">@willowcheng</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
@@ -17,7 +17,7 @@ Have learned CSS animation courses in [Treehouse](http://referrals.trhou.se/will
 The Beetle Dune Convertible looks awesome as I saw it in Toronto Auto Show last weekend. The idea came to me to create low-fidelity graphic with animation. Found a picture showing its front face, so I started to imitate it.
 Graphic design doesn't seem to be an easy work for me with no background for vector creation. However, I can do simplification just like what I did in UI design and Sketch provides me nice tools such as **Edit** and **Scissors** to meet my expectation. If there is something too hard, I'll just do it in my way :wink:。
 
-![](http://blog.caranddriver.com/wp-content/uploads/2016/03/2016-Volkswagen-Beetle-Dune-111-876x535.jpg)
+![Beetle Dune front face](http://blog.caranddriver.com/wp-content/uploads/2016/03/2016-Volkswagen-Beetle-Dune-111-876x535.jpg)
 
 By defining CSS `keyframes`, there are huge opportunities to create such complex animations, while `animation-delay` can control the order of elements animations. The single `animation` property can also include related properties collection with particular order (I believe some pre-defined key words can be used too as experimented). Check [animation - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/animation) for more information.
 The inline SVG is the same as HTML which includes tags, attributes and values. Taking advantage of **class** and **id** is definitely a big plus to creativity from engineer perspective. There are several `keyframes` I defined: `grow`, `flash`, `offset`, etc. 

@@ -15,8 +15,8 @@ permalink: /projects/wooko/
     <p>Wooko mobile app aims to provide the platform where students can find proper mentor for their learning courses. It also encourages student to become mentor when they're ready to teach what they learned before (Of course, it requires student to master course). Student can either post requirement or find mentors, and mentors can apply if they meet requirement.</p>
     <p>I joined as freelance UI designer for co-founders. Has taken consideration to have mix Chinese character of monkey king, the app itself provides delight and universal look regarding mobile platforms. The application is currently available in both App Store (iOS) and Play Store (Android).</p>
     <p>The graphics of monkey king character is designed by graphic designer and I really love the feeling of this monkey king. Following are several portraits of him. Yup, he is cute.</p>
-    <img src="/assets/img/wooko-portrait.png" style="width: 100%; margin-bottom: 8px;" />
-    <a class="download badge" href="https://itunes.apple.com/us/app/wooko/id1206772108?ls=1&mt=8"><img class="badge" src="/assets/img/app-store-download.svg"/></a>
-    <a class="download badge" href="https://play.google.com/store/apps/details?id=com.wooko.wooko"><img class="badge" src="/assets/img/google-play-download.svg"/></a>
+    <img src="/assets/img/wooko-portrait.png" style="width: 100%; margin-bottom: 8px;" alt="Monkey king character for Wooko" />
+    <a class="download badge" href="https://itunes.apple.com/us/app/wooko/id1206772108?ls=1&mt=8"><img class="badge" src="/assets/img/app-store-download.svg" alt="App store download badge" /></a>
+    <a class="download badge" href="https://play.google.com/store/apps/details?id=com.wooko.wooko"><img class="badge" src="/assets/img/google-play-download.svg" alt="Play store download badge" /></a>
     </div>
 </div>

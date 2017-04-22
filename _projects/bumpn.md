@@ -10,7 +10,7 @@ permalink: /projects/bumpn/
 
 <div class="row">
 	<div class="2u 3u(medium) 0u$(small) hidden">
-        <img class="image circle avatar" src="/assets/img/moe-abbas.jpg" width="116" height="116" />
+        <img class="image circle avatar" src="/assets/img/moe-abbas.jpg" width="116" height="116" alt="Moe Abbas's avatar" />
     </div>
 	<div class="10u$ 9u$(medium) 12u$(small)">
 		<blockquote>"Liu is a fantastically talented software engineer. He has a rare ability to combine engineering and design creating engaging user experiences. I would highly recommend Liu to any company. He is a very valuable asset on any team."<br>--- <strong>Moe Abbas</strong>, Co-founder, Bumpn Inc & GenM Inc.</blockquote> 
@@ -28,7 +28,7 @@ permalink: /projects/bumpn/
         I was interested in Sketch at that moment, and found several good templates from <a href="http://www.sketchappsources.com">SketchAppSources</a>.</p>
         <p>In addition to development and design, I learned a lot from Marc who has strong ability of learning. He is the core technique guy and responsible for backend/Android development.</p>
         <p>Interested in the app? Give a try to this startup company (you should be able to see the new user interface done mostly by me :sunglasses:)!</p>
-        <a class="download badge" href="https://itunes.apple.com/ca/app/bumpn-hearts-filters/id938356857?mt=8"><img class="badge" src="/assets/img/app-store-download.svg"/></a>
-        <a class="download badge" href="https://play.google.com/store/apps/details?id=com.bumpninc.bumpn"><img class="badge" src="/assets/img/google-play-download.svg"/></a>
+        <a class="download badge" href="https://itunes.apple.com/ca/app/bumpn-hearts-filters/id938356857?mt=8"><img class="badge" src="/assets/img/app-store-download.svg" alt="App store download badge"/></a>
+        <a class="download badge" href="https://play.google.com/store/apps/details?id=com.bumpninc.bumpn"><img class="badge" src="/assets/img/google-play-download.svg" alt="Play store download badge"/></a>
     </div>
 </div>

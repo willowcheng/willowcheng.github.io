@@ -13,7 +13,7 @@ lang: zh
         {% if post.lang == "zh" %}
             <section>
                 <a href="{{ site.baseurl }}{{ post.url }}" class="image">
-                    <img src="{{ site.baseurl }}{{ post.image }}" alt="" data-position="center center" />
+                    <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" data-position="center center" />
                 </a>
                 <div class="content">
                     <div class="inner">

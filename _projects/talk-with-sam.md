@@ -15,9 +15,9 @@ permalink: /projects/talk-with-sam/
         <p>Talk With Sam is developed by several students in Canada and USA. I'm the main contributor to iOS mobile UI design and development.</p>
         <p>Cheng Peng, our main co-founder, realized the issue that Chinese speaker can't practice spoken English in their limited time. Traditional education focuses on writing and reading skills. We partially duplicate what Uber did to connect learners and tutors. With the application, learner can request practice and tutors comes from top American schools.</p>
         <p>From development, <a href="http://www.quartzcodeapp.com">Quartzcode</a>, one of iOS animation tool, helped me on the wave animation for main button. I wish to deliver user the single entrance for each step which minimizes interaction for core features.</p>
-        <img src="/assets/img/talk-with-sam-reward.jpg" style="width: 100%;" />
+        <img src="/assets/img/talk-with-sam-reward.jpg" style="width: 100%;" alt="Talk With Sam trophy" />
         <p>The first fund came from 2016 UNC Carolina Challenge for the 2<sup>nd</sup> place - $8,000. Looking forward further investment.</p>
-        <a class="download badge" href="https://itunes.apple.com/us/app/talk-sam-30miao-zhao-huan/id1021855565?mt=8"><img class="badge" src="/assets/img/app-store-download.svg"/></a>
+        <a class="download badge" href="https://itunes.apple.com/us/app/talk-sam-30miao-zhao-huan/id1021855565?mt=8"><img class="badge" src="/assets/img/app-store-download.svg" alt="App store download badge" /></a>
     </div>
 </div>
 
