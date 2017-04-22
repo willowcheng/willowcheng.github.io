@@ -9,7 +9,7 @@ script:
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master
+  - /.*/
 
 env:
   global:
