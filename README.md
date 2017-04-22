@@ -1,6 +1,7 @@
 # Liu Cheng's Website
 
 [![Build Status](https://travis-ci.org/willowcheng/willowcheng.github.io.svg?branch=master)](https://travis-ci.org/willowcheng/willowcheng.github.io)
+[![Dependency Status](https://gemnasium.com/badges/github.com/willowcheng/willowcheng.github.io.svg)](https://gemnasium.com/github.com/willowcheng/willowcheng.github.io)
 
 Current base theme: [Forty](https://github.com/willowcheng/Forty-Jekyll-Theme)
 

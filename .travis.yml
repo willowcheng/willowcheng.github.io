@@ -9,7 +9,7 @@ script:
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - master     # test the gh-pages branch
+  - master
 
 env:
   global:
