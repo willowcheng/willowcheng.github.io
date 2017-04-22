@@ -91,3 +91,5 @@ exclude:
   - LICENSE.md
   - Gemfile
   - Gemfile.lock
+  - .travis.yml
+  - vendor/bundle
