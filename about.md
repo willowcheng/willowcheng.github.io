@@ -18,4 +18,4 @@ Ottawa is a small city and it's very quiet when winter comes. Looking at the sno
 By a chance provided from my university in China, I finished my fourth year exchange student and Master in Canada.
 I now appreciate what Canadians say about being understanding, which I rarely realize in China.
 
-<div><a href="/assets/other/Liu Cheng - Resume.pdf" class="button special icon fa-download" target="_blank">Resume</a></div>
+<div><a href="/assets/docs/Liu Cheng - Resume.pdf" class="button special icon fa-download" target="_blank">Resume</a></div>

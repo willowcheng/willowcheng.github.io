@@ -22,4 +22,4 @@ lang: zh
 
 现在在加拿大渥太华这个安静的城市和平淡的曲调里，有时会感到一些孤独。但有时这种孤独也恰恰给了我思考的余地，不至于在喧嚣的繁华都市中淹没。
 
-<div><a href="/assets/other/程柳 - 个人简历.pdf" class="button special icon fa-download" target="_blank">个人简历</a></div>
+<div><a href="/assets/docs/程柳 - 个人简历.pdf" class="button special icon fa-download" target="_blank">个人简历</a></div>

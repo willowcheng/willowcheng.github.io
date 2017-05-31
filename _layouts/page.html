@@ -5,8 +5,17 @@
 
 <body>
 
-    {% include header.html %} {% include banner.html %} {{ content }} {% include footer.html %}
+    <!-- Wrapper -->
+    <div id="wrapper">
 
+    {% include header.html %}
+        {{ content }}
+    {% include contact.html %}
+    {% include footer.html %}
+
+    </div>
 </body>
+
+{% include scripts.html %}
 
 </html>

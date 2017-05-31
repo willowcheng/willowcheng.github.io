@@ -1,10 +1,9 @@
 ---
-layout: home
+layout: page
 title: Home
 landing-title: Hi, my name is Liu Cheng
 ---
 
-<!-- Banner -->
 <section id="banner" class="major">
 	<div class="inner">
 		<header class="major">
@@ -19,13 +18,10 @@ landing-title: Hi, my name is Liu Cheng
 	</div>
 </section>
 
-<!-- Main -->
 <div id="main">
 
-<!-- One -->
 {% include tiles.html %}
 
-<!-- Two -->
 <section id="two">
 	<div class="inner">
 		<header class="major">

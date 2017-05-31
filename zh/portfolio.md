@@ -5,7 +5,8 @@ description: 在设计和开发中游走，坚信混合能力带来的创造意�
 lang: zh
 ---
 
-<!-- Main -->
+{% include banner.html %}
+
 <div id="main">
 
 <section id="one" class="tiles">

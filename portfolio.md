@@ -4,10 +4,10 @@ description: Remove boundary of design and development, and make things motivate
 title: Portfolio
 ---
 
-<!-- Main -->
+{% include banner.html %}
+
 <div id="main">
 
-<!-- One -->
 <section id="one" class="tiles">
 	{% for project in site.projects limit:site.tiles-count %}
         {% if project.lang != "zh" %}

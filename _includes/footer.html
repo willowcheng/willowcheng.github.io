@@ -1,104 +1,18 @@
-{% if page.layout != "post" %}
-<!-- Contact -->
-<section id="contact" class="clearfix">
+<footer id="footer">
 	<div class="inner">
-		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
-				<div class="field half first">
-					<label for="name">{% if page.lang == "zh" %}姓名{% else %}Name{% endif %}</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">{% if page.lang == "zh" %}电子邮箱{% else %}Email{% endif %}</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">{% if page.lang == "zh" %}消息{% else %}Message{% endif %}</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="{% if page.lang == 'zh' %}发送消息{% else %}Send Message{% endif %}" class="special" /></li>
-					<li><input type="reset" value="{% if page.lang == 'zh' %}清空{% else %}Clear{% endif %}" /></li>
-				</ul>
-			</form>
-		</section>
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>{% if page.lang == "zh" %}电子邮箱{% else %}Email{% endif %}</h3>
-					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-				</div>
-			</section>
-			{% if page.lang == "zh" %}
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-wechat"></span>
-					<h3>微信</h3>
-					<span>ID: wingus</span>
-				</div>
-			</section>
-			{% endif %}
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>{% if page.lang == "zh" %}电话{% else %}Phone{% endif %}</h3>
-					{% if page.lang == "zh" %}
-						<span>中国: {{ site.zh.phone }}</span>
-						<br>
-						<span>加拿大: {{ site.phone }}</span>
-					{% else %}
-						<span>Canada: {{ site.phone }}</span>
-						<br>
-						<span>China: {{ site.zh.phone }}</span>
-					{% endif %}
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-map-pin"></span>
-					<h3>{% if page.lang == "zh" %}当前地点{% else %}Location{% endif %}</h3>
-					<span>
-						{% if page.lang == "zh" %}
-							{{ site.zh.city }}, {{ site.zh.state }}, {{ site.zh.country }}
-						{% else %}
-							{{ site.city }}, {{ site.state }}, {{ site.country }}
-						{% endif %}
-					</span>
-				</div>
-			</section>
-		</section>
+		<ul class="icons">
+			<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+			<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+			<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+			<li><a href="{{ site.codepen_url }}" class="icon alt fa-codepen" target="_blank"><span class="label">Codepen</span></a></li>
+		</ul>
+		<ul class="copyright">
+			<li>
+				&copy; {% if page.lang == "zh" %}{{ site.zh.title_bold }}{% else %}{{ site.title_bold }}{% endif %}
+			</li>
+			<li>{% if page.lang == "zh" %}基础主题：{% else %}Base Theme:{% endif %} <a href="https://github.com/andrewbanchich/Forty-Jekyll-Theme" target="_blank">Forty</a></li>
+
+		</ul>
 	</div>
-</section>
+</footer>
 
-{% endif %}
-
-<!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				<li><a href="{{ site.codepen_url }}" class="icon alt fa-codepen" target="_blank"><span class="label">Codepen</span></a></li>
-			</ul>
-			<ul class="copyright">
-				<li>
-					&copy; {% if page.lang == "zh" %}{{ site.zh.title_bold }}{% else %}{{ site.title_bold }}{% endif %}
-				</li>
-				<li>{% if page.lang == "zh" %}基础主题：{% else %}Base Theme:{% endif %} <a href="https://github.com/andrewbanchich/Forty-Jekyll-Theme" target="_blank">Forty</a></li>
-				
-			</ul>
-		</div>
-	</footer>
-
-</div>
-
-<!-- Scripts -->
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/jquery.scrolly.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/jquery.scrollex.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/util.js"></script>
-<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
-<script src="{{ site.baseurl }}/assets/js/main.js"></script>

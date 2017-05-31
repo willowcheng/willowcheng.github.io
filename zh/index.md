@@ -1,11 +1,10 @@
 ---
-layout: home
+layout: page
 title: 主页
 landing-title: 嗨, 我叫程柳
 lang: zh
 ---
 
-<!-- Banner -->
 <section id="banner" class="major">
 	<div class="inner">
 		<header class="major">
@@ -20,13 +19,10 @@ lang: zh
 	</div>
 </section>
 
-<!-- Main -->
 <div id="main">
 
-<!-- One -->
 {% include tiles.html %}
 
-<!-- Two -->
 <section id="two">
 	<div class="inner">
 		<header class="major">

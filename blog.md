@@ -4,7 +4,8 @@ description: Occasion inspiration from life journey and hopefully got engaged
 title: Blog
 ---
 
-<!-- Main -->
+{% include banner.html %}
+
 <div id="main">
 
 <section id="two" class="spotlights">

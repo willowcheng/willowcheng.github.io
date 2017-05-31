@@ -5,7 +5,8 @@ description: 一些突然的灵感，偶尔的感悟，激励自己的东西
 lang: zh
 ---
 
-<!-- Main -->
+{% include banner.html %}
+
 <div id="main">
 
 <section id="two" class="spotlights">
