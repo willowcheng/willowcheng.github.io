@@ -52,14 +52,16 @@ gems:
   - jemoji
 
 # Homepage tiles
-tiles-source: posts # accepts "posts" or "pages" 
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # Social settings
 github_url: https://github.com/willowcheng
 linkedin_url: https://www.linkedin.com/in/willowliucheng
 instagram_url: https://www.instagram.com/willowcheng/
+flickr_url: https://www.flickr.com/people/willowcheng
 codepen_url: http://codepen.io/willowcheng/
+pinterest_url: https://www.pinterest.com/willowcheng/
 
 # Dependencies
 markdown: kramdown
