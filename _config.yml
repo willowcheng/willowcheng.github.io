@@ -53,7 +53,7 @@ gems:
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # Social settings
 github_url: https://github.com/willowcheng
