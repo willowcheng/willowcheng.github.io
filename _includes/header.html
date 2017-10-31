@@ -17,7 +17,7 @@
 	</a>
 	<nav>
 		<span>
-			<a class="button {% if page.lang == 'zh' %}special inactive{% elsif page.bilingual == false %}disabled{% endif %} small zh switch" href="{% if page.lang != 'zh' and page.bilingual != false %}/zh{{ page.url }}{% else %}javascript:void(0){% endif %}" hreflang="zh">中</a><a class="button {% if page.lang != 'zh' %}special inactive{% elsif page.bilingual == false %}disabled{% endif %} small en switch" href="{% if page.lang == 'zh' and page.bilingual != false %}{{ page.url | replace: '/zh', '' }}{% else %}{{ javascript:void(0) }}{% endif %}" hreflang="en">EN</a>
+			<a class="button{% if page.lang == 'zh' %} special inactive{% elsif page.bilingual == false %} disabled{% endif %} small zh switch" href="{% if page.lang != 'zh' and page.bilingual != false %}/zh{{ page.url }}{% else %}javascript:void(0){% endif %}" hreflang="zh">中</a><a class="button {% if page.lang != 'zh' %}special inactive{% elsif page.bilingual == false %}disabled{% endif %} small en switch" href="{% if page.lang == 'zh' and page.bilingual != false %}{{ page.url | replace: '/zh', '' }}{% else %}{{ javascript:void(0) }}{% endif %}" hreflang="en">EN</a>
 		</span>
 		<a href="#menu">
 			{% if page.lang == "zh" %}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-landing-title: Hi, my name is Liu Cheng
+landing-title: Hi, my name is Liu Cheng (Willow)
 ---
 
 <section id="banner" class="major">
