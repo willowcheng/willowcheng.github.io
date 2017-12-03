@@ -42,7 +42,7 @@ bilingual: no
 首先我很推荐苹果官网的摄影小技巧系列：[中文](https://www.apple.com/cn/iphone/photography-how-to/)，[英文](https://www.apple.com/iphone/photography-how-to/)。
 
 其次推荐 Youtube 上的一个关于 iPhone 摄影技巧的英文短片，主要总结了内置相机的技巧
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KfVG_2n-iTM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/KfVG_2n-iTM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 然后是一个强力推荐的 iOS 应用 :heart:，讲解更多专业摄影的知识，里面的关于参数和构图的内容对我非常受益，[The Great Photo](https://itunes.apple.com/app/the-great-photo-app/id766214869?mt=8)，中英文皆有
 
@@ -108,11 +108,11 @@ bilingual: no
 
 历史是个很有用的东西，我最近发现它非常有用，这点和我在图形设计中的体会类似，这样你对不同时期的摄影作品也能更好地欣赏。
 摄影的祖先实际可以追溯到春秋战国的墨子哦，下面这个 Youtube 的英文短片在五分钟里讲解了摄影器材的变化
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JoxGEymA8ro?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JoxGEymA8ro?rel=0" frameborder="0" allowfullscreen></iframe>
 
 接下来是课程里分享的一个视频，对一个名叫 Garry Winogrand 摄影师的采访，摄影所捕捉的图片可以比实际的情景更加有趣？从不处理图片？
 不同的人或许有不同的观点，对我而言是很讨厌这个人的说话方式的，但借鉴课程里学到的，要尝试找自己最不习惯的角度 :unamused:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PmwkWV4rwto?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/PmwkWV4rwto?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## 最后
 一个值得思考的问题，什么算是真正的艺术家？我在这门课里发现了一个非常好的解释：**推动艺术的界限** :heart:

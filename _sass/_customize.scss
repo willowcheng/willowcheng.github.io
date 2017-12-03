@@ -46,3 +46,7 @@ img:not(.emoji):not(.badge):not(.avatar) {
   max-width: 100%;
   margin: auto;
 }
+
+iframe {
+  max-width: 560px;
+}
