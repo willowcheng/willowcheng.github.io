@@ -43,10 +43,20 @@ blockquote p {
 
 img:not(.emoji):not(.badge):not(.avatar) {
   display: block;
-  max-width: 100%;
   margin: auto;
+  max-width: 100%;
+
+  .article & {
+    max-width: 75%;
+
+    @include breakpoint(small) {
+      max-width: 100%;
+    }
+  }
 }
 
 iframe {
   max-width: 560px;
+  display: block;
+  margin: auto;
 }
