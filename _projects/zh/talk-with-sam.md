@@ -3,7 +3,6 @@ title: Talk With Sam
 description: 致力英语口语练习的 iOS 应用
 image: /assets/img/talk-with-sam.jpg
 tag: iOS | 设计 | 开发
-link: http://www.talkwithsam.co
 lang: zh
 permalink: /zh/projects/talk-with-sam/
 ---
@@ -18,7 +17,6 @@ permalink: /zh/projects/talk-with-sam/
     <p>开发方面，<a href="http://www.quartzcodeapp.com">Quartzcode</a>给了我很大的灵感（一个 iOS 动画制作工具），同时我在设计理念里运用了单一按钮贯穿整个核心界面。我希望用户能够觉得应用简单明了，达到他们能快速学习的目的。</p>
     <img src="/assets/img/talk-with-sam-reward.jpg" style="width: 100%;" alt="Talk With Sam 奖杯" />
     <p>第一笔资金来自于 2016 年北卡罗来纳大学比赛第二名的奖金，8000 美金。现在我们也在寻求更多的投资。</p>
-    <a class="download badge" href="https://itunes.apple.com/cn/app/talk-sam-30miao-zhao-huan/id1021855565?mt=8"><img class="badge" src="/assets/img/app-store-download.svg" alt="App store 下载图标" /></a>
     </div>
 </div>
 

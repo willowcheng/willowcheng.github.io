@@ -57,7 +57,7 @@ HTML 常用的表义标签完了可以做诸如开关、标签之类需要运用
 
 中期模仿的对象主要是 Bootstrap 4 的源码，包括了他们构造静态网站的方式，深深感觉到只有阅读源码才能和业界保持水准。。。
 
-![SASS 怪兽](http://blog.farrant.me/content/images/2016/01/sass-monster.png)
+![SASS 怪兽](https://cdn.dribbble.com/users/158849/screenshots/1244430/sass-monster_1x.png)
 
 - **NPM** 对于 JS 生态圈包管理的意义非常大，相比 Bower 明确了依赖库之间的相互关系，从而有更好的效率。我最欣赏的是 `package.json`
 的引入，里面可以集成很多东西，很酷 :sunglasses:

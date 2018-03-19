@@ -4,7 +4,6 @@ description: 寻找同行旅游的伙伴
 image: /assets/img/zebra-go.jpg
 tag: iOS | 安卓 | 设计
 lang: zh
-link: http://wooko.ca
 permalink: /zh/projects/zebra-go/
 bilingual: no
 ---
