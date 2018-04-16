@@ -15,7 +15,12 @@ have been using for years.
 Although it's a pity that Shopify doesn't provide it and **most themes don't actually design portfolio page** :disappointed:,
 it makes sense to me portfolio is not a common usage for most online stores which Shopify only builds for essentials.
 
-I’m going to use Shopify’s default theme -- [Debut](https://themes.shopify.com/themes/debut/styles/default) as an example to work you through how to build portfolio step by step.
+I’m going to use Shopify’s default theme -- [Debut](https://themes.shopify.com/themes/debut/styles/default) as an example to work you through how to build portfolio step by step:
+1. Duplicate theme file
+2. Create alternate template
+3. Create customized section
+4. Create project
+5. Remove add to cart button
 
 ![Debut theme screenshot](/assets/img/debut-theme-screenshot.png)
 
@@ -36,7 +41,7 @@ click on **Add a new template** and choose `product` as what the new template fo
 
 ![Create alternate template screenshot](/assets/img/create-alternate-template-screenshot.png)
 
-The reason to use product is we want to use Collections feature later as **Portfolio** list page which can include
+The reason to use product is we want to use Collections feature in Part 2 as **Portfolio** list page which can include
 projects whichever are assigned to the alternate template.
 
 Now you should see a file called `product.project.liquid`. It comes with pre defined populated code.
@@ -103,4 +108,8 @@ You should be able to see that **Add to Cart** button is removed from layout. :g
 
 ![Add to cart is removed screenshot](/assets/img/add-to-cart-is-removed-screenshot.png)
 
-Part 2 will be how to properly use collection as portfolio list page that lists projects, cont....
+Next, remove the price y collapsing following line and delete and block
+
+![Remove price from project screenshot](/assets/img/remove-price-from-project-screenshot.png)
+
+[Part 2](/2018/04/15/how-to-add-portfolio-to-shopify-store-part-2/) will walk you through how to properly use collection as portfolio list page that lists projects.
