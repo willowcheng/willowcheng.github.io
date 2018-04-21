@@ -7,7 +7,7 @@ image: /assets/img/pink-and-black-ink.jpg
 permalink: /2018/03/18/how-to-add-portfolio-to-shopify-store-part-1/
 ---
 
-Shopify is designed for selling products online, and online store is almost the most important part for customers
+[Shopify](https://www.shopify.com/?ref=planet-willow) is designed for selling products online, and online store is almost the most important part for customers
 recognizing your store branding and buy products. However,
 it doesn’t have [Portfolio](https://en.support.wordpress.com/portfolios/) feature which Wordpress
 have been using for years.

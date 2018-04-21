@@ -9,7 +9,7 @@ permalink: /2018/04/15/how-to-add-portfolio-to-shopify-store-part-2/
 
 Now you've walked through [How to Add Portfolio to Shopify Store (Part 1)](/2018/03/18/how-to-add-portfolio-to-shopify-store-part-1/)
 and have a working project page that inherits design from product.
-Next, we'd like to have a list page which can list all projects and leverage collection feature from Shopify store. :stuck_out_tongue:
+Next, we'd like to have a list page which can list all projects and leverage collection feature from [Shopify](https://www.shopify.com/?ref=planet-willow) store. :stuck_out_tongue:
 
 1. Create collection
 2. Create alternate template for collection
