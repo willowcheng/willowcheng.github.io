@@ -6,7 +6,7 @@ tag: thinking | creative
 
 <img alt="Liu Cheng's selfie" class="image left avatar" src="/assets/img/liu-cheng.jpg" />
 
-My name is **Liu Cheng**, graduated from **University of Ottawa**. Now a **front-end developer** in **Trend Micro Inc.** located in Ottawa, Canada.
+My name is **Liu Cheng**, graduated from **University of Ottawa**. Now a **front-end developer** in [**Shopify**](https://www.shopify.com/?ref=planet-willow) in Toronto, Canada.
 Influenced by Massive Open Online Courses (MOOC), I learned lots of courses in application development, cooking, English writing and etc., which I believe life-long learning is my best weapon.
 
 For application developer which is my career, user interface (UI) is most attractive to me. After mobile and web development learning journey, I now focus on the balance between design and development.
