@@ -4,6 +4,7 @@ description: Discover people near you and follow them
 image: /assets/img/bumpn.jpg
 tag: iOS | design
 link: https://bumpn.com
+category: design
 bilingual: no
 permalink: /projects/bumpn/
 ---

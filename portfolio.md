@@ -8,6 +8,16 @@ title: Portfolio
 
 <div id="main">
 
-{% include tiles.html %}
+    <div class="inner">
+        <h2>Design</h2>
+    </div>
+
+    {% include tiles.html category="design" %}
+
+    <div class="inner">
+        <h2>Drawing</h2>
+    </div>
+
+    {% include tiles.html category="drawing" %}
 
 </div>

@@ -4,6 +4,7 @@ description: A mobile dashboard concept app designed in Trend Micro Hack days
 image: /assets/img/deep-dash-feature.png
 tag: iOS | Apple Watch | design
 link: https://trendmicro.com
+category: design
 bilingual: no
 permalink: /projects/deep-dash/
 ---

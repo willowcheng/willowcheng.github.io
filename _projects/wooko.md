@@ -2,6 +2,7 @@
 title: Wooko
 description: Mobile app for learning and teaching local courses
 image: /assets/img/wooko.jpg
+category: design
 tag: iOS | Android | design
 permalink: /projects/wooko/
 ---

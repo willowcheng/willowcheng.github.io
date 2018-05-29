@@ -9,6 +9,16 @@ lang: zh
 
 <div id="main">
 
-{% include tiles.html %}
+    <div class="inner">
+        <h2>设计</h2>
+    </div>
+
+    {% include tiles.html category="design" %}
+
+    <div class="inner">
+        <h2>绘画</h2>
+    </div>
+
+    {% include tiles.html category="drawing" %}
 
 </div>

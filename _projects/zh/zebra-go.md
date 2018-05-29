@@ -2,6 +2,7 @@
 title: 斑马行动
 description: 寻找同行旅游的伙伴
 image: /assets/img/zebra-go.jpg
+category: design
 tag: iOS | 安卓 | 设计
 lang: zh
 permalink: /zh/projects/zebra-go/

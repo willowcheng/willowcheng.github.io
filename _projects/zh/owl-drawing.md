@@ -2,6 +2,7 @@
 title: 画笔下的猫头鹰
 description: 探索用不同的方式来画猫头鹰
 image: /assets/img/owl-photo-crop.jpg
+category: drawing
 tag: 绘画
 lang: zh
 permalink: /zh/projects/owl-drawing/
