@@ -16,6 +16,12 @@ lang: zh
     {% include tiles.html category="design" %}
 
     <div class="inner">
+        <h2>摄影</h2>
+    </div>
+
+    {% include tiles.html category="photography" %}
+
+    <div class="inner">
         <h2>绘画</h2>
     </div>
 

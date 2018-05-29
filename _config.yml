@@ -52,7 +52,7 @@ plugins:
   - jemoji
 
 # Homepage tiles
-tiles-count: 10
+tiles-count: 20
 
 # Social settings
 github_url: https://github.com/willowcheng
