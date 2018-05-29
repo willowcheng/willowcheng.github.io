@@ -13,17 +13,4 @@
             </article>
         {% endif %}
 	{% endfor %}
-	{% for page in site.pages limit:site.tiles-count %}
-	{% if site.tiles-source == 'pages' %}
-        <article>
-                <span class="image">
-                        <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}" />
-                </span>
-                <header class="major">
-                        <h3><a href="{{ site.baseurl }}{% if page.lang == 'zh' %}/zh{% endif %}{{ page.url}}" class="link">{{ page.title }}</a></h3>
-                        <p>{{ page.description }}</p>
-                </header>
-        </article>
-	{% endif %}
-	{% endfor %}
 </section>

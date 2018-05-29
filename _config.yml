@@ -52,8 +52,7 @@ plugins:
   - jemoji
 
 # Homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 8
+tiles-count: 10
 
 # Social settings
 github_url: https://github.com/willowcheng
