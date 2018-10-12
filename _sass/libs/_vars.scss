@@ -23,25 +23,26 @@
 		family:				(-apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft Yahei", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif),
 		family-fixed:		(Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace),
 		weight:				300,
-		weight-bold:		600,
+		weight-bold:		700,
 		letter-spacing:		0.025em,
 		letter-spacing-alt:	0.25em
 	);
 
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
-		accent1:			#6fc3df,
-		accent2:			#8d82c4,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		bg:					white,
+		bg-alt:				white,
+		fg:					black,
+		fg-bold:			black,
+		fg-light:			#ccc,
+		fg-lowlight:        white,
+		border:				rgba(0,0,0,0.25),
+		border-bg:			rgba(0,0,0,0.035),
+		highlight:			#343434,
+		accent1:			darken(#6fc3df, 10%),
+		accent2:			darken(#8d82c4, 10%),
+		accent3:			darken(#ec8d81, 10%),
+		accent4:			darken(#e7b788, 10%),
+		accent5:			darken(#8ea9e8, 10%),
+		accent6:			darken(#87c5a4, 10%)
 	);

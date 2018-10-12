@@ -39,3 +39,13 @@
 			}
 
 	}
+
+	::selection {
+		color: _palette(bg);
+		background: _palette(fg);
+	}
+
+	::-moz-selection {
+		color: _palette(bg);
+		background: _palette(fg);
+	}

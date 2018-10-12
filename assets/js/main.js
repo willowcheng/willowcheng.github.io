@@ -98,15 +98,6 @@
 			$header = $('#header'),
 			$banner = $('#banner');
 
-		// Disable animations/transitions until the page has loaded.
-			$body.addClass('is-loading');
-
-			$window.on('load pageshow', function() {
-				window.setTimeout(function() {
-					$body.removeClass('is-loading');
-				}, 100);
-			});
-
 		// Clear transitioning state on unload/hide.
 			$window.on('unload pagehide', function() {
 				window.setTimeout(function() {
@@ -229,9 +220,6 @@
 
 				var $this = $(this),
 					$image = $this.find('.image'), $img = $image.find('img');
-
-				// Parallax.
-					$this._parallax(0.275);
 
 				// Image.
 					if ($image.length > 0) {

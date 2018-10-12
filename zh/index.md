@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 主页
-landing-title: 嗨, 我叫程柳
+landing-title: 嗨，我叫程柳
 lang: zh
 ---
 

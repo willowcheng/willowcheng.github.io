@@ -45,6 +45,13 @@
 				z-index: 3;
 			}
 
+			h3,
+			h6,
+			p {
+                @include vendor('transition', 'opacity 0.5s ease');
+				color: _palette(fg-lowlight);
+			}
+
 			h3 {
 				font-size: 1.75em;
 
@@ -72,7 +79,7 @@
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: 0.5;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -91,6 +98,12 @@
 			}
 
 			&:hover {
+				h3,
+				h6,
+				p {
+					opacity: 0;
+				}
+
 				&:before {
 					opacity: 0;
 				}

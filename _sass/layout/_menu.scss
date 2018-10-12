@@ -66,7 +66,6 @@
 
 					> a:not(.button) {
 						border: 0;
-						border-top: solid 1px _palette(border);
 						display: block;
 						font-size: 0.8em;
 						font-weight: _font(weight-bold);
@@ -79,12 +78,6 @@
 					> .button {
 						display: block;
 						margin: 0.5em 0 0 0;
-					}
-
-					&:first-child {
-						> a:not(.button) {
-							border-top: 0 !important;
-						}
 					}
 				}
 			}
