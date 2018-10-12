@@ -29,6 +29,5 @@ permalink: /projects/bumpn/
         I was interested in Sketch at that moment, and found several good templates from <a href="http://www.sketchappsources.com">SketchAppSources</a>.</p>
         <p>In addition to development and design, I learned a lot from Marc who has strong ability of learning. He is the core technique guy and responsible for backend/Android development.</p>
         <p>Interested in the app? Give a try to this startup company (you should be able to see the new user interface done mostly by me :sunglasses:)!</p>
-        <a class="download badge" href="https://play.google.com/store/apps/details?id=com.bumpninc.bumpn"><img class="badge" src="/assets/img/google-play-download.svg" alt="Play store download badge"/></a>
     </div>
 </div>

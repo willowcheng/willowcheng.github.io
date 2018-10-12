@@ -43,7 +43,7 @@ HTML 常用的表义标签完了可以做诸如开关、标签之类需要运用
 界面库的都很常见。积木搭得越多，可变性就会少，对于内部组件库而言这个时候更应该有明确需要给逻辑开发者暴露多少自定义的空间。
 此外在交互方面设计也能在统一性上定义，比如色彩变化时的明暗度、透明度等等。
 
-![乐高卡通图](https://lc-www-live-s.legocdn.com/r/www/r/dccomicssuperheroes/-/media/franchises/dc%20comics%20super%20heroes%202014/home/touts%20favorites/characters-2-720x430.jpg?l.r2=-1411488742)
+![乐高卡通图](https://1.bp.blogspot.com/-HHOA9W8MXjE/UKVWTZz9v0I/AAAAAAAAPQg/KZpMO_ZVQ7g/s1600/Lego.jpg)
 
 ## 2. 技术
 

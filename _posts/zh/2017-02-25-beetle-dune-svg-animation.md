@@ -19,7 +19,7 @@ permalink: /zh/2017/02/25/beetle-dune-svg-animation/
 最近去趟车展看到敞篷版沙丘甲壳虫，顿时让我眼前一亮，就萌生了做个抽象线条图 + 动画的想法。网上找到了一个正面的前脸图，然后就模仿着画形状了。
 第一次做底层的图形绘制，在线条的弧度方面不是非常理想，Sketch 提供的编辑工具和剪刀基本可以达到我需要的结果，太难的地方就只能发挥想象力来简化了 :wink:。
 
-![沙丘甲壳虫的前脸](http://blog.caranddriver.com/wp-content/uploads/2016/03/2016-Volkswagen-Beetle-Dune-111-876x535.jpg)
+![沙丘甲壳虫的前脸](https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/wp-content/uploads/2016/01/2016-Volkswagen-Beetle-Dune-1-121.jpg)
 
 整体上通过 CSS `keyframes` 不同百分比变化可以定义出复杂的动画效果，而通过动画的延迟 `animation-delay` 可以很好地控制各个元素呈现的顺序，在单个 `animation` 中可以依次定义动画类各个属性，参考 [animation - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)。
 我在代码里定义了诸如 `grow`, `flash`, `offset` 等等不同的动画类型，而 inline SVG 的处理和普通 HTML 完全一样，依然可以用 **id** 和 **class** 进行元素定义、选取，这样 CSS 代码显得很整齐。
