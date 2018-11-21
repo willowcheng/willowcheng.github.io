@@ -6,7 +6,8 @@ tag: iOS | Apple Watch | design
 link: https://trendmicro.com
 category: design
 bilingual: no
-permalink: /projects/deep-dash/
+permalink: /portfolio/deep-dash/
+redirect_from: /projects/deep-dash/
 ---
 
 <div class="row">

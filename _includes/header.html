@@ -2,16 +2,16 @@
 	<a href="{{ site.baseurl }}/{% if page.lang == 'zh' %}zh{% endif %}" class="logo">
 		<strong>
 			{% if page.lang == "zh" %}
-				{{ site.zh.title_bold }}
+				{{ site.zh.title }}
 			{% else %}
-				{{ site.title_bold }}
+				{{ site.title }}
 			{% endif %}
 		</strong>
 		<span>
 			{% if page.lang == "zh" %}
-				{{ site.zh.title_normal }}
+				{{ site.zh.subtitle }}
 			{% else %}
-				{{ site.title_normal }}
+				{{ site.subtitle }}
 			{% endif %}
 		</span>
 	</a>

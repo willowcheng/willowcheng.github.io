@@ -2,9 +2,9 @@
 title: Owl Drawing
 description: Explore different ways of drawing owl
 image: /assets/img/owl-photo-crop.jpg
-category: drawing
-tag: drawing
-permalink: /projects/owl-drawing/
+tag: drawing, design
+permalink: /2018/06/26/owl-drawing/
+redirect_from: /projects/owl-drawing/
 ---
 
 Drawing is a mistery field to me. To many people, it can be super familiar to us when we were at young age.

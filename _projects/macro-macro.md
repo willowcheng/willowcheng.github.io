@@ -4,7 +4,8 @@ description: Macro surprises me all the time
 image: /assets/img/glass-light.jpg
 category: photography
 tag: photography | macro
-permalink: /projects/macro-macro/
+permalink: /portfolio/macro-macro/
+redirect_from: /projects/macro-macro/
 ---
 
 <div class="row">

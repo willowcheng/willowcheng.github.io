@@ -5,7 +5,8 @@ image: /assets/img/zebra-go.jpg
 category: design
 tag: iOS | 安卓 | 设计
 lang: zh
-permalink: /zh/projects/zebra-go/
+permalink: /zh/portfolio/zebra-go/
+redirect_from: /zh/projects/zebra-go/
 bilingual: no
 ---
 

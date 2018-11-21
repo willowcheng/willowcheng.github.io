@@ -5,7 +5,8 @@ image: /assets/img/glass-light.jpg
 category: photography
 lang: zh
 tag: 摄影 | 微距
-permalink: /zh/projects/macro-macro/
+permalink: /zh/portfolio/macro-macro/
+redirect_from: /zh/projects/macro-macro/
 ---
 
 <div class="row">

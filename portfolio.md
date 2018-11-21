@@ -15,15 +15,9 @@ title: Portfolio
     {% include tiles.html category="design" %}
 
     <div class="inner">
-        <h2>Photography</h2>
+        <h2>Photography & Graphics</h2>
     </div>
 
     {% include tiles.html category="photography" %}
-
-    <div class="inner">
-        <h2>Drawing</h2>
-    </div>
-
-    {% include tiles.html category="drawing" %}
 
 </div>

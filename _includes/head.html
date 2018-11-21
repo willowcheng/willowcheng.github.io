@@ -2,7 +2,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<title>
-		{{ page.title }} | {% if page.description %}{{ page.description }}{% else %}{% if page.lang == "zh" %}{{ site.zh.title_bold }} {% else %}{{ site.title_bold }}{% endif %}{% endif %}
+		{{ page.title }} | {% if page.description %}{{ page.description }}{% else %}{% if page.lang == "zh" %}{{ site.zh.title }} {% else %}{{ site.title }}{% endif %}{% endif %}
 	</title>
 	{% seo %}
 	{% feed_meta %}

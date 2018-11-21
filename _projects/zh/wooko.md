@@ -5,7 +5,8 @@ image: /assets/img/wooko.jpg
 category: design
 tag: iOS | 安卓 | 设计
 lang: zh
-permalink: /zh/projects/wooko/
+permalink: /zh/portfolio/wooko/
+redirect_from: /zh/projects/wooko/
 ---
 
 <div class="row">

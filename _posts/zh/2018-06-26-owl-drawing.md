@@ -2,10 +2,10 @@
 title: 画笔下的猫头鹰
 description: 探索用不同的方式来画猫头鹰
 image: /assets/img/owl-photo-crop.jpg
-category: drawing
-tag: 绘画
+tag: 绘画, 设计
 lang: zh
-permalink: /zh/projects/owl-drawing/
+permalink: /zh/2018/06/26/owl-drawing/
+redirect_from: /zh/projects/owl-drawing/
 ---
 
 画画对我来说还算是个没探索的领域。对很多人来说，我们小时候很多人都是喜欢画画的。

@@ -5,7 +5,8 @@ image: /assets/img/talk-with-sam.jpg
 category: design
 tag: iOS | 设计 | 开发
 lang: zh
-permalink: /zh/projects/talk-with-sam/
+permalink: /zh/portfolio/talk-with-sam/
+redirect_from: /zh/projects/talk-with-sam/
 ---
 
 <div class="row">

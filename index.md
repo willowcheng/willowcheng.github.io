@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-landing-title: Hi, my name is Liu Cheng (Willow)
+landing-title: Hi, my name is Willow Cheng
 ---
 
 <section id="banner" class="major">
@@ -27,7 +27,10 @@ landing-title: Hi, my name is Liu Cheng (Willow)
 		<header class="major">
 			<h2>Blog</h2>
 		</header>
-		<p>When I was young, I don't write dairy at all. For sure, we're always lazy to write posts for recording. The initial motivation of writing posts is to enrich content. Later on I found sharing things and learning from others can always make myself rewarding, so I'll keep write to make my life enthusiastic. By the way, I'm interested in music, code and user interface.</p>
+		<p>I came from a person who don't like writing diary, and actually don't like reading at all.
+		At some point, I found my initial motivation of writing to share what I know, and I value for, as the giveback to what I learned from others.
+		Every post makes me feel rewarding, so I think it's a long term win to keep my life enthusiastic.
+		By the way, my interest always shift around, currently interested in music, code, design, mobile photography, etc.</p>
 		<ul class="actions">
 			<li><a href="blog" class="button next">Read</a></li>
 		</ul>

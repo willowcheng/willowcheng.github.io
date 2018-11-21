@@ -6,7 +6,8 @@ tag: iOS | design
 link: https://bumpn.com
 category: design
 bilingual: no
-permalink: /projects/bumpn/
+permalink: /portfolio/bumpn/
+redirect_from: /projects/bumpn/
 ---
 
 <div class="row">
