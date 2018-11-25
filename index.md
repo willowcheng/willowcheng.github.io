@@ -35,7 +35,7 @@ landing-title: Hi, I’m Willow, into visual, sound and brain
                 <h2>Freelance Designer/Developer</h2>
             </header>
             <p>My full-time job at Shopify is UX Developer. I work at spare time as freelancer serving person or coorperation
-            of coding and designing, creativity appreciated. Services include：</p>
+            of coding and designing, creativity appreciated :wink:. Services include：</p>
             <ul>
                 <li>Shopify store consulting and theme development :computer:</li>
                 <li>Website SEO optimization 🔧</li>

@@ -35,7 +35,7 @@ lang: zh
             <header class="major">
                 <h2>自由开发设计师</h2>
             </header>
-            <p>在Shopify担任UX开发的全职工作，我在空闲时间会以自由职业者的身份为个人与公司提供设计与代码相关服务，目前包括：</p>
+            <p>在Shopify担任UX开发的全职工作外，我在空闲时间以自由职业者的身份为个人与公司提供设计与代码相关服务，欢迎联系 :wink:，目前包括：</p>
             <ul>
                 <li>Shopify商店咨询与主题修改 :computer:</li>
                 <li>网站SEO优化 🔧</li>
