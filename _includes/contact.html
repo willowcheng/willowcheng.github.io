@@ -32,7 +32,7 @@
                 <div class="contact-method">
                     <span class="icon alt fa-wechat"></span>
                     <h3>{% if page.lang == "zh" %}微信{% else %}WeChat{% endif %}</h3>
-                    <img class="wechat-code" src="{{ site.baseurl }}/assets/img/wechat-code.png">
+                    <img alt="{% if page.lang == 'zh' %}微信二维码{% else %}WeChat QR code{% endif %}" class="wechat-code" src="{{ site.baseurl }}/assets/img/wechat-code.png">
                 </div>
             </section>
             <section>
