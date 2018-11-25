@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Wooko
 description: Mobile app for learning and teaching local courses
 image: /assets/img/wooko.jpg

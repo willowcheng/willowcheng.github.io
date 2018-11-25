@@ -1,5 +1,6 @@
 ---
 layout: project
+lang: zh
 title: 关于
 tag: 思考 | 创造
 lang: zh

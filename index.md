@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: en
 title: Home
 landing-title: Hi, my name is Willow Cheng
 ---
@@ -22,7 +23,7 @@ landing-title: Hi, my name is Willow Cheng
 
 {% include tiles.html %}
 
-<section id="two">
+<section>
 	<div class="inner">
 		<header class="major">
 			<h2>Blog</h2>

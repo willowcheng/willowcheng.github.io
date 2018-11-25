@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Macro Macro
 description: Macro surprises me all the time
 image: /assets/img/glass-light.jpg

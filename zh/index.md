@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: zh
 title: 主页
 landing-title: 嗨，我叫程柳
 lang: zh
@@ -23,7 +24,7 @@ lang: zh
 
 {% include tiles.html %}
 
-<section id="two">
+<section>
 	<div class="inner">
 		<header class="major">
 			<h2>博客</h2>

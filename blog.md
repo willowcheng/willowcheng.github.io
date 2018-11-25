@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: en
 description: Occasion inspiration from life journey and hopefully got engaged
 title: Blog
 ---

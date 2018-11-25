@@ -1,4 +1,5 @@
 ---
+lang: en
 title: CSS Animation Practice of Beetle Dune
 description: The Beetle Dune Convertible caught my eyes in Toronto Auto show, which I got the motivation to apply CSS animation from skills learned and tried to create simplified Beetle outline.
 tag: design, animation

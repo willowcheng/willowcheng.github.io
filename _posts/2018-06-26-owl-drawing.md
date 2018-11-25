@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Owl Drawing
 description: Explore different ways of drawing owl
 image: /assets/img/owl-photo-crop.jpg

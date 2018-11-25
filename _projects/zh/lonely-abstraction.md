@@ -1,4 +1,5 @@
 ---
+lang: zh
 title: 孤僻的抽象
 description: 超越想象的摄影抽象
 image: /assets/img/imaginary-forest.jpg

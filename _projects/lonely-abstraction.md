@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Lonely Abstraction
 description: Mindset bloom of imagination beyond photography
 image: /assets/img/imaginary-forest.jpg

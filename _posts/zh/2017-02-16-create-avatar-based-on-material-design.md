@@ -1,9 +1,9 @@
 ---
+lang: zh
 title: 让代购头像优雅点
 description: 用谷歌原物设计来制作头像，感觉在高度和阴影间游行的感觉很棒～
 tag: 设计
 image: /assets/img/echo-avatar.png
-lang: zh
 bilingual: no
 permalink: /zh/blog/create-avatar-based-on-material-design/
 redirect_from: /zh/2017/02/16/create-avatar-based-on-material-design/

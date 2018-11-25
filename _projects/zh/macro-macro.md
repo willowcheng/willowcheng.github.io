@@ -1,4 +1,5 @@
 ---
+lang: zh
 title: 显微镜下
 description: 微距的视角总是让我感到惊讶
 image: /assets/img/glass-light.jpg

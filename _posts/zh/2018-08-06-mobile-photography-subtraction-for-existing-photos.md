@@ -1,9 +1,9 @@
 ---
+lang: zh
 title: 试试减法来让你从手机拍照到手机摄影！（入门篇）
 description: 在手机和相机依然有画质差距的今天，尝试减法来扬长避短，说不准手机摄影天才的你可以横空出世
 tag: 摄影
 image: /assets/img/mobile-photography-subtraction.jpg
-lang: zh
 permalink: /zh/blog/mobile-photography-subtraction-for-existing-photos/
 redirect_from: /zh/2018/08/06/mobile-photography-subtraction-for-existing-photos/
 bilingual: no

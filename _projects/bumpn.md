@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Bumpn
 description: Discover people near you and follow them
 image: /assets/img/bumpn.jpg

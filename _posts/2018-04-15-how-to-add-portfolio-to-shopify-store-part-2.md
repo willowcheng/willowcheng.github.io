@@ -1,4 +1,5 @@
 ---
+lang: en
 title: How to Add Portfolio to Shopify Store (Part 2)
 description: Shopify is ready to use for creating products, collections, but it doesn’t have portfolio feature comparing with Wordpress. I explored extending features from existing theme, and hope this general strategy helps you.
 tag: development

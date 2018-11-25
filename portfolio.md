@@ -1,12 +1,13 @@
 ---
 layout: page
+lang: en
 description: Remove boundary of design and development, and make things motivated
 title: Portfolio
 ---
 
 {% include banner.html %}
 
-<div id="main">
+<div>
 
     <div class="inner">
         <h2>Design</h2>
