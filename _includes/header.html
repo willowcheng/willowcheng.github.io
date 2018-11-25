@@ -17,7 +17,7 @@
 	</p>
 	<nav>
         <a href="{{ site.baseurl }}/{% if page.lang == 'zh' %}zh{% endif %}" class="logo">
-            <img src="{{ site.baseurl }}/assets/img/favicon.png" />
+            <img alt="{% if page.lang == 'zh' %}主页{% else %}Home{% endif %}" src="{{ site.baseurl }}/assets/img/favicon.png" />
         </a>
 		<span class="lang-switcher">
 			<a class="button{% if page.lang == 'zh' %} special inactive{% elsif page.bilingual == false %} disabled{% endif %} small zh switch" href="{% if page.lang != 'zh' and page.bilingual != false %}/zh{{ page.url }}{% else %}javascript:void(0){% endif %}" hreflang="zh">中</a><a class="button {% if page.lang != 'zh' %}special inactive{% elsif page.bilingual == false %}disabled{% endif %} small en switch" href="{% if page.lang == 'zh' and page.bilingual != false %}{{ page.url | replace: '/zh', '' }}{% else %}{{ javascript:void(0) }}{% endif %}" hreflang="en">EN</a>
