@@ -3,7 +3,7 @@ title: Owl Drawing
 description: Explore different ways of drawing owl
 image: /assets/img/owl-photo-crop.jpg
 tag: drawing, design
-permalink: /2018/06/26/owl-drawing/
+permalink: /blog/owl-drawing/
 redirect_from: /projects/owl-drawing/
 ---
 

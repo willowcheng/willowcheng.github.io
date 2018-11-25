@@ -5,7 +5,8 @@ description: 从开始有制作组件库的计划到不断接触新技术，补�
 tag: 学习, 开发
 image: /assets/img/patterns-galaxy.jpg
 lang: zh
-permalink: /zh/2017/04/05/what-i-learned-from-building-internal-components-library/
+permalink: /zh/blog/what-i-learned-from-building-internal-components-library/
+redirect_from: /zh/2017/04/05/what-i-learned-from-building-internal-components-library/
 bilingual: no
 ---
 

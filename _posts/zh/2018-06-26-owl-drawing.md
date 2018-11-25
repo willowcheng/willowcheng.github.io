@@ -4,7 +4,7 @@ description: 探索用不同的方式来画猫头鹰
 image: /assets/img/owl-photo-crop.jpg
 tag: 绘画, 设计
 lang: zh
-permalink: /zh/2018/06/26/owl-drawing/
+permalink: /zh/blog/owl-drawing/
 redirect_from: /zh/projects/owl-drawing/
 ---
 

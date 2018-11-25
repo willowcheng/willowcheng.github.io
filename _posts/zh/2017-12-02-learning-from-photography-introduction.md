@@ -4,7 +4,8 @@ description: 怎样算是摄影？摄影的目的和表达方式又是怎样的�
 tag: 摄影
 image: /assets/img/crystal-sheep.jpg
 lang: zh
-permalink: /zh/2017/12/02/learning-from-photography-introduction/
+permalink: /zh/blog/learning-from-photography-introduction/
+redirect_from: /zh/2017/12/02/learning-from-photography-introduction/
 bilingual: no
 ---
 

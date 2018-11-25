@@ -4,7 +4,8 @@ description: 在手机和相机依然有画质差距的今天，尝试减法来�
 tag: 摄影
 image: /assets/img/mobile-photography-subtraction.jpg
 lang: zh
-permalink: /zh/2018/08/06/mobile-photography-subtraction-for-existing-photos/
+permalink: /zh/blog/mobile-photography-subtraction-for-existing-photos/
+redirect_from: /zh/2018/08/06/mobile-photography-subtraction-for-existing-photos/
 bilingual: no
 ---
 

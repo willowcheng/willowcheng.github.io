@@ -4,7 +4,8 @@ description: Shopify is ready to use for creating products, collections, but it 
 tag: development
 bilingual: no
 image: /assets/img/pink-and-black-ink.jpg
-permalink: /2018/03/18/how-to-add-portfolio-to-shopify-store-part-1/
+permalink: /blog/how-to-add-portfolio-to-shopify-store-part-1/
+redirect_from: /2018/03/18/how-to-add-portfolio-to-shopify-store-part-1/
 ---
 
 [Shopify](https://www.shopify.com/?ref=planet-willow) is designed for selling products online, and online store is almost the most important part for customers

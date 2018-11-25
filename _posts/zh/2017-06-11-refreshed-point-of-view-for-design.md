@@ -4,7 +4,8 @@ description: 完成图形设计基础课程后，对设计的一些理解与思�
 tag: 设计
 image: /assets/img/graphic-design.jpg
 lang: zh
-permalink: /zh/2017/06/11/refreshed-point-of-view-for-design/
+permalink: /zh/blog/refreshed-point-of-view-for-design/
+redirect_from: /zh/2017/06/11/refreshed-point-of-view-for-design/
 bilingual: no
 ---
 

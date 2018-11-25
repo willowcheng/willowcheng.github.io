@@ -5,7 +5,8 @@ tag: 设计
 image: /assets/img/echo-avatar.png
 lang: zh
 bilingual: no
-permalink: /zh/2017/02/16/create-avatar-based-on-material-design/
+permalink: /zh/blog/create-avatar-based-on-material-design/
+redirect_from: /zh/2017/02/16/create-avatar-based-on-material-design/
 ---
 
 先上结果图，这样搜索结果好看点:grin:～

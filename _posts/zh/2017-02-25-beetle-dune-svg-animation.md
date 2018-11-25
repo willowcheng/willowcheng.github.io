@@ -4,7 +4,8 @@ description: 学了 CSS 动画一直苦于没有好的想法该练习什么，�
 tag: 设计, 动画
 image: /assets/img/beetle-dune-colored.jpg
 lang: zh
-permalink: /zh/2017/02/25/beetle-dune-svg-animation/
+permalink: /zh/blog/beetle-dune-svg-animation/
+redirect_from: /zh/2017/02/25/beetle-dune-svg-animation/
 ---
 
 先来张抽象图最后的制作结果和 CodePen 的 CSS 动画草图 :smirk:

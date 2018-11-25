@@ -4,7 +4,8 @@ description: Shopify is ready to use for creating products, collections, but it 
 tag: development
 bilingual: no
 image: /assets/img/yellow-ink-with-black-drops.jpg
-permalink: /2018/04/15/how-to-add-portfolio-to-shopify-store-part-2/
+permalink: /blog/how-to-add-portfolio-to-shopify-store-part-2/
+redirect_from: /2018/04/15/how-to-add-portfolio-to-shopify-store-part-2/
 ---
 
 Now you've walked through [How to Add Portfolio to Shopify Store (Part 1)](/2018/03/18/how-to-add-portfolio-to-shopify-store-part-1/)
