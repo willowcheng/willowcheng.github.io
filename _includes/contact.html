@@ -28,28 +28,11 @@
                     <a href="mailto:{{ site.email }}">{{ site.email }}</a>
                 </div>
             </section>
-            {% if page.lang == "zh" %}
             <section>
                 <div class="contact-method">
                     <span class="icon alt fa-wechat"></span>
-                    <h3>微信</h3>
-                    <span>ID: wingus</span>
-                </div>
-            </section>
-            {% endif %}
-            <section>
-                <div class="contact-method">
-                    <span class="icon alt fa-phone"></span>
-                    <h3>{% if page.lang == "zh" %}电话{% else %}Phone{% endif %}</h3>
-                    {% if page.lang == "zh" %}
-                    <span>中国: {{ site.zh.phone }}</span>
-                    <br>
-                    <span>加拿大: {{ site.phone }}</span>
-                    {% else %}
-                    <span>Canada: {{ site.phone }}</span>
-                    <br>
-                    <span>China: {{ site.zh.phone }}</span>
-                    {% endif %}
+                    <h3>{% if page.lang == "zh" %}微信{% else %}WeChat{% endif %}</h3>
+                    <img class="wechat-code" src="{{ site.baseurl }}/assets/img/wechat-code.png">
                 </div>
             </section>
             <section>
