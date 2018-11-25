@@ -4,8 +4,7 @@ title: Talk With Sam
 description: 致力英语口语练习的 iOS 应用
 image: /assets/img/talk-with-sam.jpg
 category: design
-tag: iOS | 设计 | 开发
-lang: zh
+tag: ios | 设计 | 开发
 permalink: /zh/portfolio/talk-with-sam/
 redirect_from: /zh/projects/talk-with-sam/
 ---

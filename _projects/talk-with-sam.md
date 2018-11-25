@@ -4,7 +4,7 @@ title: Talk With Sam
 description: An iOS app for English speaking practice
 image: /assets/img/talk-with-sam.jpg
 category: design
-tag: iOS | design | development
+tag: ios | design | development
 permalink: /portfolio/talk-with-sam/
 redirect_from: /projects/talk-with-sam/
 ---

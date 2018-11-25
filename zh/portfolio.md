@@ -1,25 +1,12 @@
 ---
 layout: page
 lang: zh
-title: 个人作品
-description: 在设计和开发中游走，坚信混合能力带来的创造意志
+title: 案例与作品
+description: 在设计和开发中游走，更愿意相信混合能力带来的极致创造力
 lang: zh
 ---
 
 {% include banner.html %}
+{% assign projects = site.projects | where: 'lang', 'zh' %}
+{% include projects.html projects=projects %}
 
-<div>
-
-    <div class="inner">
-        <h2>设计</h2>
-    </div>
-
-    {% include tiles.html category="design" %}
-
-    <div class="inner">
-        <h2>摄影与图形</h2>
-    </div>
-
-    {% include tiles.html category="photography" %}
-
-</div>

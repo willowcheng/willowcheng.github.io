@@ -2,7 +2,7 @@
 layout: page
 lang: zh
 title: 主页
-landing-title: 嗨，我叫程柳
+landing-title: 嗨，我叫程柳，喜欢看见的、听见的和所想的
 lang: zh
 ---
 
@@ -22,18 +22,51 @@ lang: zh
 
 <div id="main">
 
-{% include tiles.html %}
+    <div class="inner">
+        <div class="major">
+            <h2>最近案例与作品</h2>
+        </div>
+    </div>
+    {% assign projects = site.projects | where: 'lang', 'zh' | where: 'recent', true %}
+    {% include projects.html projects=projects limit=nil %}
 
-<section>
-	<div class="inner">
-		<header class="major">
-			<h2>博客</h2>
-		</header>
-		<p>从我小就一直没有养成写日记的习惯，而我在追求完美的路上有时候也比较懒。后来我发现多分享些东西能够间接让我有更多的追求和热情，让自己可以发散想法。目前主要爱好是音乐，设计，代码与手机摄影。</p>
-		<ul class="actions">
-			<li><a href="blog" class="button next">阅读</a></li>
-		</ul>
-	</div>
-</section>
+    <section>
+        <div class="inner">
+            <header class="major">
+                <h2>自由开发设计师</h2>
+            </header>
+            <p>在Shopify担任UX开发的全职工作，我在空闲时间会以自由职业者的身份为个人与公司提供设计与代码相关服务，目前包括：</p>
+            <ul>
+                <li>Shopify商店咨询与主题修改 :computer:</li>
+                <li>网站SEO优化 🔧</li>
+                <li>手机APP设计 :art:</li>
+            </ul>
+            <ul class="actions">
+                <li><a href="portfolio" class="button next">查看更多案例与作品</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="spotlights">
+        <div class="inner">
+        <div class="major">
+            <h2>最新文章</h2>
+        </div>
+        </div>
+        {% assign posts = site.posts | where: 'lang', 'zh' %}
+        {% include posts.html posts=posts limit=2 %}
+    </section>
+
+    <section>
+        <div class="inner">
+            <header class="major">
+                <h2>博客</h2>
+            </header>
+            <p>从小就一直没有养成写日记的习惯，而有时候在追求完美的路上也会很懒。我发现分享东西能够让我有更多的追求和热情，于是开始写些东西让自己发散想法。喜欢的东西有设计 :art:，代码 :computer:，音乐 :headphones: 与手机摄影 :camera:。</p>
+            <ul class="actions">
+                <li><a href="blog" class="button next">阅读更多</a></li>
+            </ul>
+        </div>
+    </section>
 
 </div>

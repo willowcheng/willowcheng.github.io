@@ -3,7 +3,7 @@ lang: en
 title: Bumpn
 description: Discover people near you and follow them
 image: /assets/img/bumpn.jpg
-tag: iOS | design
+tag: ios | design
 link: https://bumpn.com
 category: design
 bilingual: no

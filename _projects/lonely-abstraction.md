@@ -5,6 +5,7 @@ description: Mindset bloom of imagination beyond photography
 image: /assets/img/imaginary-forest.jpg
 category: photography
 tag: photography | abstraction | graphics
+recent: yes
 permalink: /portfolio/lonely-abstraction/
 redirect_from: /projects/lonely-abstraction/
 ---

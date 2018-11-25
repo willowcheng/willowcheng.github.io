@@ -4,7 +4,6 @@ title: 显微镜下
 description: 微距的视角总是让我感到惊讶
 image: /assets/img/glass-light.jpg
 category: photography
-lang: zh
 tag: 摄影 | 微距
 permalink: /zh/portfolio/macro-macro/
 redirect_from: /zh/projects/macro-macro/

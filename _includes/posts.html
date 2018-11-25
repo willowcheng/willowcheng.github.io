@@ -1,0 +1,25 @@
+{% for post in include.posts limit:include.limit %}
+    <section>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="image">
+            <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major post">
+                    <h3>{{ post.title }}</h3>
+                </header>
+                {% if post.lang == "zh" %}
+                    <p>{{ post.date | date: "%Y年%m月%d日" }}</p>
+                {% else %}
+                    <p><em>{{ post.date | date: "%b %d, %Y"}}</em></p>
+                {% endif %}
+                <p>{{ post.description }}</p>
+                <ul class="actions">
+                    <li>
+                        <a href="{{ site.baseurl }}{{ post.url }}" class="button">{% if post.lang == "zh" %}阅读{% else %}Read{% endif %}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+{% endfor %}

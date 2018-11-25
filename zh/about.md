@@ -1,9 +1,8 @@
 ---
-layout: project
+layout: post
 lang: zh
 title: 关于
 tag: 思考 | 创造
-lang: zh
 ---
 
 <img class="image right avatar" src="/assets/img/willow-cheng.jpg" alt="程柳的自拍照" />

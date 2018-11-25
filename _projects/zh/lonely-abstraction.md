@@ -4,8 +4,8 @@ title: 孤僻的抽象
 description: 超越想象的摄影抽象
 image: /assets/img/imaginary-forest.jpg
 category: photography
-lang: zh
 tag: 摄影 | 抽象 | 图形
+recent: yes
 permalink: /zh/portfolio/lonely-abstraction/
 redirect_from: /zh/projects/lonely-abstraction/
 ---

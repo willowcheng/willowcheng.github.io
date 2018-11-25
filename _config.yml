@@ -2,7 +2,7 @@
 title: Willow Cheng
 subtitle: Craftor’s journey
 email: hi@willowcheng.com
-description: The warm space to host Willow Cheng's blog and portfolio, which are made by :heart:.
+description: The space that hosts my blog and portfolio, which are made by :heart:.
 baseurl: ""
 url: "https://willowcheng.com"
 author: Willow Cheng
@@ -14,7 +14,7 @@ country: Canada
 zh:
   title: 程柳
   subtitle: 我们像只野马一样在城市里流淌
-  description: 这里寄宿着博客和我的个人作品 :heart:。
+  description: 这里寄宿着我用心写的博客和过往的作品 :heart:。
   city: 多伦多
   state: 安大略省
   country: 加拿大

@@ -4,8 +4,7 @@ title: Wooko
 description: 寻找导师辅导正在学习的课程的移动应用
 image: /assets/img/wooko.jpg
 category: design
-tag: iOS | 安卓 | 设计
-lang: zh
+tag: ios | 安卓 | 设计
 permalink: /zh/portfolio/wooko/
 redirect_from: /zh/projects/wooko/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 lang: en
 title: About
 tag: thinking | creative
