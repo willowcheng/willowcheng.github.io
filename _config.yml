@@ -62,9 +62,8 @@ tiles-count: 20
 github_url: https://github.com/willowcheng
 linkedin_url: https://www.linkedin.com/in/willowcheng
 instagram_url: https://www.instagram.com/willowcheng
-flickr_url: https://www.flickr.com/people/willowcheng
-codepen_url: http://codepen.io/willowcheng
-pinterest_url: https://www.pinterest.com/willowcheng/
+soundcloud_url: https://soundcloud.com/willowcheng
+codepen_url: https://codepen.io/willowcheng
 
 # Dependencies
 markdown: kramdown
