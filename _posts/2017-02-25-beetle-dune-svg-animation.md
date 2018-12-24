@@ -12,7 +12,7 @@ The finalized graphic and animation in CodePen :smirk:
 
 <img alt="Beetle dune in gradient background color" src="/assets/img/beetle-dune-colored.jpg" style="width: 640px;"/>
 
-<p data-height="420" data-theme-id="light" data-slug-hash="ZeYPOW" data-default-tab="result" data-preview="true" data-user="willowcheng" data-embed-version="2" data-pen-title="Beetle Dune SVG Animation" class="codepen">See the Pen <a href="http://codepen.io/willowcheng/pen/ZeYPOW/">Beetle Dune SVG Animation</a> by Liu Cheng (<a href="http://codepen.io/willowcheng">@willowcheng</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="420" data-theme-id="light" data-slug-hash="ZeYPOW" data-default-tab="result" data-preview="true" data-user="willowcheng" data-embed-version="2" data-pen-title="Beetle Dune SVG Animation" class="codepen">See the Pen <a href="http://codepen.io/willowcheng/pen/ZeYPOW/">Beetle Dune SVG Animation</a> by Willow Cheng (<a href="http://codepen.io/willowcheng">@willowcheng</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 

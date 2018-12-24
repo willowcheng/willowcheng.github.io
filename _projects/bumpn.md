@@ -16,7 +16,7 @@ redirect_from: /projects/bumpn/
         <img class="image circle avatar" src="/assets/img/moe-abbas.jpg" width="116" height="116" alt="Moe Abbas's avatar" />
     </div>
 	<div class="10u$ 9u$(medium) 12u$(small)">
-		<blockquote>"Liu is a fantastically talented software engineer. He has a rare ability to combine engineering and design creating engaging user experiences. I would highly recommend Liu to any company. He is a very valuable asset on any team."<br>--- <strong>Moe Abbas</strong>, Co-founder, Bumpn Inc & GenM Inc.</blockquote> 
+		<blockquote>"Willow is a fantastically talented software engineer. He has a rare ability to combine engineering and design creating engaging user experiences. I would highly recommend Liu to any company. He is a very valuable asset on any team."<br>--- <strong>Moe Abbas</strong>, Co-founder, Bumpn Inc & GenM Inc.</blockquote>
     </div>
 </div>
 

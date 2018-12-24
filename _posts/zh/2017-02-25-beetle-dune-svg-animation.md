@@ -12,7 +12,7 @@ redirect_from: /zh/2017/02/25/beetle-dune-svg-animation/
 
 <img src="/assets/img/beetle-dune-colored.jpg" style="width: 640px;" alt="沙丘甲壳虫的抽象图制作结果" />
 
-<p data-height="420" data-theme-id="light" data-slug-hash="ZeYPOW" data-default-tab="result" data-preview="true" data-user="willowcheng" data-embed-version="2" data-pen-title="Beetle Dune SVG Animation" class="codepen">See the Pen <a href="http://codepen.io/willowcheng/pen/ZeYPOW/">Beetle Dune SVG Animation</a> by Liu Cheng (<a href="http://codepen.io/willowcheng">@willowcheng</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="420" data-theme-id="light" data-slug-hash="ZeYPOW" data-default-tab="result" data-preview="true" data-user="willowcheng" data-embed-version="2" data-pen-title="Beetle Dune SVG Animation" class="codepen">See the Pen <a href="http://codepen.io/willowcheng/pen/ZeYPOW/">Beetle Dune SVG Animation</a> by Willow Cheng (<a href="http://codepen.io/willowcheng">@willowcheng</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
