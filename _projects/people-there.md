@@ -1,6 +1,6 @@
 ---
 lang: en
-title: People there
+title: People There
 description: Expression, faces, and moments
 image: /assets/img/lake.jpg
 recent: yes
