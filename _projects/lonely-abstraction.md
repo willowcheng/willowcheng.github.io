@@ -5,7 +5,6 @@ description: Mindset bloom of imagination beyond photography
 image: /assets/img/imaginary-forest.jpg
 category: photography
 tag: photography | abstraction | graphics
-recent: yes
 permalink: /portfolio/lonely-abstraction/
 redirect_from: /projects/lonely-abstraction/
 ---
@@ -17,7 +16,7 @@ redirect_from: /projects/lonely-abstraction/
         <span class="image fit"><img src="/assets/img/mirror.jpg" alt="Mirror" /></span>
         <span class="image fit"><img src="/assets/img/shadow.jpg" alt="Shadow" /></span>
         <span class="image fit"><img src="/assets/img/geometry.jpg" alt="Geometry" /></span>
-        <span class="image fit"><img src="/assets/img/dark-cloud.jpg" alt="Dark cloud" /></span>
+        <span class="image fit"><img src="/assets/img/colorful.jpg" alt="Colorful" /></span>
     </div>
     <div class="4u 12u$(small)">
         <span class="image fit"><img src="/assets/img/fuzzy-street.jpg" alt="Fuzzy street" /></span>
@@ -26,7 +25,7 @@ redirect_from: /projects/lonely-abstraction/
         <span class="image fit"><img src="/assets/img/suddenly.jpg" alt="Suddenly" /></span>
         <span class="image fit"><img src="/assets/img/stripe.jpg" alt="Stripe" /></span>
         <span class="image fit"><img src="/assets/img/fantasy.jpg" alt="Fantasy" /></span>
-        <span class="image fit"><img src="/assets/img/colorful.jpg" alt="Colorful" /></span>
+        <span class="image fit"><img src="/assets/img/dark-cloud.jpg" alt="Dark cloud" /></span>
     </div>
     <div class="4u$ 12u$(small)">
         <span class="image fit"><img src="/assets/img/imaginary-forest.jpg" alt="Imaginary forest" /></span>
@@ -35,6 +34,5 @@ redirect_from: /projects/lonely-abstraction/
         <span class="image fit"><img src="/assets/img/addicted.jpg" alt="Addicted" /></span>
         <span class="image fit"><img src="/assets/img/wind.jpg" alt="Wind" /></span>
         <span class="image fit"><img src="/assets/img/vapor.jpg" alt="Vapor" /></span>
-        <span class="image fit"><img src="/assets/img/alone.jpg" alt="Alone" /></span>
     </div>
 </div>

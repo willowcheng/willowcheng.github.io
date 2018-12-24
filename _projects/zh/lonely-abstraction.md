@@ -5,7 +5,6 @@ description: 超越想象的摄影抽象
 image: /assets/img/imaginary-forest.jpg
 category: photography
 tag: 摄影 | 抽象 | 图形
-recent: yes
 permalink: /zh/portfolio/lonely-abstraction/
 redirect_from: /zh/projects/lonely-abstraction/
 ---
@@ -17,7 +16,7 @@ redirect_from: /zh/projects/lonely-abstraction/
         <span class="image fit"><img src="/assets/img/mirror.jpg" alt="镜" /></span>
         <span class="image fit"><img src="/assets/img/shadow.jpg" alt="匣影" /></span>
         <span class="image fit"><img src="/assets/img/geometry.jpg" alt="几何" /></span>
-        <span class="image fit"><img src="/assets/img/dark-cloud.jpg" alt="乌云" /></span>
+        <span class="image fit"><img src="/assets/img/colorful.jpg" alt="彩云" /></span>
     </div>
     <div class="4u 12u$(small)">
         <span class="image fit"><img src="/assets/img/fuzzy-street.jpg" alt="法兹街道" /></span>
@@ -26,7 +25,7 @@ redirect_from: /zh/projects/lonely-abstraction/
         <span class="image fit"><img src="/assets/img/suddenly.jpg" alt="惊觉" /></span>
         <span class="image fit"><img src="/assets/img/stripe.jpg" alt="带" /></span>
         <span class="image fit"><img src="/assets/img/fantasy.jpg" alt="幻想" /></span>
-        <span class="image fit"><img src="/assets/img/colorful.jpg" alt="彩云" /></span>
+        <span class="image fit"><img src="/assets/img/dark-cloud.jpg" alt="乌云" /></span>
     </div>
     <div class="4u$ 12u$(small)">
         <span class="image fit"><img src="/assets/img/imaginary-forest.jpg" alt="森林幻境" /></span>
@@ -35,6 +34,5 @@ redirect_from: /zh/projects/lonely-abstraction/
         <span class="image fit"><img src="/assets/img/addicted.jpg" alt="沉迷" /></span>
         <span class="image fit"><img src="/assets/img/wind.jpg" alt="风" /></span>
         <span class="image fit"><img src="/assets/img/vapor.jpg" alt="蒸汽" /></span>
-        <span class="image fit"><img src="/assets/img/alone.jpg" alt="孤独" /></span>
     </div>
 </div>
