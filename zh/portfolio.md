@@ -9,4 +9,4 @@ lang: zh
 {% include banner.html %}
 {% assign projects = site.projects | where: 'lang', 'zh' %}
 {% include projects.html projects=projects %}
-
+{% include clients.html %}

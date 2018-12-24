@@ -8,3 +8,4 @@ title: Portfolio
 {% include banner.html %}
 {% assign projects = site.projects | where: 'lang', 'en' %}
 {% include projects.html projects=projects %}
+{% include clients.html %}

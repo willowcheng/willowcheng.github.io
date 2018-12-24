@@ -64,3 +64,19 @@ iframe {
 figure figcaption {
   text-align: center;
 }
+
+.logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 45px;
+
+  @include breakpoint(small) {
+    flex-wrap: wrap;
+  }
+}
+
+.logo-center {
+  display: flex;
+  justify-content: center;
+}
