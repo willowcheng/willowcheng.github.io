@@ -7,7 +7,6 @@ category: photography
 tag: 摄影 | 人像
 recent: yes
 permalink: /zh/portfolio/people-there/
-redirect_from: /zh/projects/people-there/
 ---
 
 <div class="row">

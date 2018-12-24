@@ -7,7 +7,6 @@ recent: yes
 category: photography
 tag: photography | portrait
 permalink: /portfolio/people-there/
-redirect_from: /projects/people-there/
 ---
 
 <div class="row">
