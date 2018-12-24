@@ -80,3 +80,26 @@ figure figcaption {
   display: flex;
   justify-content: center;
 }
+
+#banner.index {
+  &:before {
+    content: '';
+    position: absolute;
+    width: 35vw;
+    min-width: 600px;
+    height: 25vw;
+    right: 30px;
+    bottom: -150px;
+    background: url("/assets/img/splash.jpg") right / contain no-repeat;
+
+    @include breakpoint(small) {
+      width: 270px;
+      height: 50vw;
+      bottom: -90px;
+    }
+  }
+}
+
+.relative-position {
+  position: relative;
+}

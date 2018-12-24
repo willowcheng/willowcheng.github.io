@@ -6,7 +6,7 @@ landing-title: 嗨，我叫程柳，喜欢看见的、听见的和所想的
 lang: zh
 ---
 
-<section id="banner" class="major">
+<section id="banner" class="index major">
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>
@@ -24,7 +24,7 @@ lang: zh
 
     <div class="inner">
         <div class="major">
-            <h2>最近案例与作品</h2>
+            <h2 class="relative-position">最近案例与作品</h2>
         </div>
     </div>
     {% assign projects = site.projects | where: 'lang', 'zh' | where: 'recent', true %}

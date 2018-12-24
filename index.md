@@ -5,7 +5,7 @@ title: Home
 landing-title: Hi, I’m Willow, into visual, sound and brain
 ---
 
-<section id="banner" class="major">
+<section id="banner" class="index major">
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>
@@ -23,7 +23,7 @@ landing-title: Hi, I’m Willow, into visual, sound and brain
 
     <div class="inner">
         <div class="major">
-            <h2>Recent Work</h2>
+            <h2 class="relative-position">Recent Work</h2>
         </div>
     </div>
     {% assign projects = site.projects | where: 'lang', 'en' | where: 'recent', true %}
