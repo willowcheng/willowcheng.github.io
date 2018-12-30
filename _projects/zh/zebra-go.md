@@ -5,7 +5,6 @@ description: 寻找同行旅游的伙伴
 image: /assets/img/zebra-go.jpg
 category: design
 tag: ios | 安卓 | 设计
-recent: yes
 permalink: /zh/portfolio/zebra-go/
 redirect_from: /zh/projects/zebra-go/
 bilingual: no
