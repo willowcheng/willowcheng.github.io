@@ -73,7 +73,7 @@ UI 设计的经验更多是从谷歌原物设计、iOS 界面指导准则和各�
 为什么交通灯 :traffic_light: 里的红色那么明显，而从光谱角度看红色波长比很多颜色长而频率低，类比声音的话低音往往是能量集中区，
 频率低也能使得延展范围加大同样是因为能量。
 
-![颜色光谱](https://wallpaperfx.com/uploads/wallpapers/2012/02/04/8078/preview_beautiful-colours.jpeg)
+![颜色光谱](/assets/img/color-spectrum.jpg)
 
 那么从红色延伸开来，也就很好理解应用里的四个状态色在警示作用上的区别：红色、黄色、绿色、蓝色。我们在应用里经常使用 RGB 色彩理论，
 而图像摄影中经常使用 CMYK，色彩形成还有 HSB。有时候可能会很苦恼为什么不用一个统一的标准 :confused:，
