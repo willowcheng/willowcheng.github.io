@@ -17,12 +17,11 @@ permalink: /portfolio/life/
     <div class="4u 12u$(small)">
         <span class="image fit"><img src="/assets/img/sunset.jpg" alt="Sunset" /></span>
         <span class="image fit"><img src="/assets/img/las-vegas.jpg" alt="Las Vegas" /></span>
-        <span class="image fit"><img src="/assets/img/leaves.jpg" alt="Leaves" /></span>
+        <span class="image fit"><img src="/assets/img/park.jpg" alt="Park" /></span>
     </div>
     <div class="4u$ 12u$(small)">
         <span class="image fit"><img src="/assets/img/look.jpg" alt="Look" /></span>
         <span class="image fit"><img src="/assets/img/ottawa.jpg" alt="Ottawa" /></span>
         <span class="image fit"><img src="/assets/img/skyline.jpg" alt="Skyline" /></span>
-        <span class="image fit"><img src="/assets/img/park.jpg" alt="Park" /></span>
     </div>
 </div>
