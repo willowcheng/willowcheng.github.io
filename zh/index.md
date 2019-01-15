@@ -1,9 +1,10 @@
 ---
 layout: page
 lang: zh
-title: 主页
-landing-title: 嗨，我叫程柳，喜欢看见的、听见的和所想的
-lang: zh
+title: 程柳
+description: 视觉、听觉和代码的观察下，我经常在想象的催动下做喜欢的东西，这里寄宿着用心写的博客和过往的作品。
+landing-title: 我叫程柳，喜欢看见的、听见的和所想的
+landing-subtitle: 这里寄宿着我用心写的博客和过往的作品
 ---
 
 <section id="banner" class="index major">
@@ -12,7 +13,7 @@ lang: zh
 			<h1>{{ page.landing-title }}</h1>
 		</header>
 		<div class="content">
-			<p>{{ site.zh.description }}</p>
+			<p>{{ page.landing-subtitle }} :heart:</p>
 			<ul class="actions">
 				<li><a href="about" class="button next scrolly">关于我</a></li>
 			</ul>

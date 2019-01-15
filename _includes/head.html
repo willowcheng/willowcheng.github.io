@@ -1,10 +1,8 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<title>
-		{{ page.title }} | {% if page.lang == "zh" %}{{ site.zh.title }}{% else %}{{ site.title }}{% endif %}
-	</title>
-	{% seo %}
+	<title>{% if page.url != "/" and page.url != "/zh/" %}{{ page.title }} | {% endif %}{% if page.lang == "zh" %}{{ site.zh.title }}{% else %}{{ site.title }}{% endif %}</title>
+	{% seo title=false %}
 	{% feed_meta %}
     <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/assets/img/favicon.png" >
     <!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -12,15 +10,4 @@
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ site.baseurl }}/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/css/ie8.css" /><![endif]-->
-
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56786218-4"></script>
-	<script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-56786218-4');
-	</script>
-	<!-- End Google Analytics Embed code -->
 </head>

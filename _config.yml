@@ -2,7 +2,6 @@
 title: Willow Cheng
 subtitle: Craftor’s journey
 email: hi@willowcheng.com
-description: The space that hosts my blog and portfolio, which are made by :heart:.
 baseurl: ""
 url: "https://willowcheng.com"
 author: Willow Cheng
@@ -14,7 +13,6 @@ country: Canada
 zh:
   title: 程柳
   subtitle: 我们像只野马一样在城市里流淌
-  description: 这里寄宿着我用心写的博客和过往的作品 :heart:。
   city: 多伦多
   state: 安大略省
   country: 加拿大
@@ -58,10 +56,11 @@ tiles-count: 20
 
 # Social settings
 github_url: https://github.com/willowcheng
-linkedin_url: https://www.linkedin.com/in/willowcheng
-instagram_url: https://www.instagram.com/willowcheng
+linkedin_url: https://linkedin.com/in/willowcheng
+instagram_url: https://instagram.com/willowcheng
 soundcloud_url: https://soundcloud.com/willowcheng
 codepen_url: https://codepen.io/willowcheng
+facebook_url: https://facebook.com/willowcheng
 
 # Dependencies
 markdown: kramdown
@@ -73,19 +72,34 @@ permalink: pretty
 twitter:
   username: willow_cheng
 
+social:
+  name: Willow Cheng
+  links:
+    - https://github.com/willowcheng
+    - https://linkedin.com/in/willowcheng
+    - https://instagram.com/willowcheng
+    - https://soundcloud.com/willowcheng
+    - https://codepen.io/willowcheng
+    - https://facebook.com/willowcheng
+    - https://twitter.com/willow_cheng
+    - https://medium.com/@willowcheng
+    - https://vimeo.com/willowcheng
+    - https://behance.net/willowcheng
+    - https://unsplash.com/@willowcheng
+    - https://pinterest.com/willowcheng
+
 # Add one or more of the following
 facebook:
   app_id:
   publisher:
   admins:
-logo:
-google_site_verification:
+logo: /assets/img/favicon.png
 
 sass:
   style: :compressed
 
 cdn:
-  fontawesome: //cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css
+  fontawesome: https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css
 
 # Misc
 exclude:

@@ -5,7 +5,7 @@ title: About
 tag: thinking | creative
 ---
 
-<img alt="Willow Cheng's selfie" class="image left avatar" src="/assets/img/willow-cheng.jpg" />
+<img alt="Willow Cheng’s selfie" class="image left avatar" src="/assets/img/willow-cheng.jpg" />
 
 My name is **Willow Cheng**, graduated from **University of Ottawa**. Now a **front-end developer** in [**Shopify**](https://www.shopify.com/?ref=planet-willow) in Toronto, Canada.
 Influenced by Massive Open Online Courses (MOOC), I learned lots of courses in application development, cooking, English writing and etc., which I believe life-long learning is my best weapon.

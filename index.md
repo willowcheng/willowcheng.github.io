@@ -1,8 +1,12 @@
 ---
 layout: page
 lang: en
-title: Home
-landing-title: Hi, I’m Willow, into visual, sound and brain
+title: Willow Cheng
+description: |-
+  Observing by visual, sound and code, imaging on top of my head to craft creation.
+  This is the space that hosts my blog and portfolio, which are made by love.
+landing-title: I’m Willow Cheng, into visual, sound and brain
+landing-subtitle: The space that hosts my blog and portfolio, which are made by
 ---
 
 <section id="banner" class="index major">
@@ -11,7 +15,7 @@ landing-title: Hi, I’m Willow, into visual, sound and brain
 			<h1>{{ page.landing-title }}</h1>
 		</header>
 		<div class="content">
-			<p style="text-transform: uppercase;">{{ site.description }}</p>
+			<p style="text-transform: uppercase;">{{ page.landing-subtitle }} :heart:</p>
 			<ul class="actions">
 				<li><a href="about" class="button next scrolly">About me</a></li>
 			</ul>
