@@ -1,6 +1,9 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	{% if page.index == false %}
+		<meta name="robots" content="noindex" >
+	{% endif %}
 	<title>{% if page.url != "/" and page.url != "/zh/" %}{{ page.title }} | {% endif %}{% if page.lang == "zh" %}{{ site.zh.title }}{% else %}{{ site.title }}{% endif %}</title>
 	{% seo title=false %}
 	{% feed_meta %}
