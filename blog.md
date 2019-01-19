@@ -7,7 +7,7 @@ title: Blog
 
 {% include banner.html %}
 
-<div id="main">
+<div class="main">
 
 <section id="two" class="spotlights">
 	{% assign posts = site.posts | where: 'lang', 'en' %}

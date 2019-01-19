@@ -15,15 +15,13 @@ landing-subtitle: The space that hosts my blog and portfolio, which are made by
 			<h1>{{ page.landing-title }}</h1>
 		</header>
 		<div class="content">
-			<p style="text-transform: uppercase;">{{ page.landing-subtitle }} :heart:</p>
-			<ul class="actions">
-				<li><a href="about" class="button next scrolly">About me</a></li>
-			</ul>
+			<p>{{ page.landing-subtitle }} :heart:</p>
+			<a href="about" class="button next scrolly">About me</a>
 		</div>
 	</div>
 </section>
 
-<div id="main">
+<div class="main">
 
     <div class="inner">
         <div class="major">
@@ -45,9 +43,7 @@ landing-subtitle: The space that hosts my blog and portfolio, which are made by
                 <li>Website SEO optimization 🔧</li>
                 <li>Mobile App design :art:</li>
             </ul>
-            <ul class="actions">
-                <li><a href="portfolio" class="button next">More of my work</a></li>
-            </ul>
+            <a href="portfolio" class="button next">More of my work</a>
         </div>
     </section>
 
@@ -70,9 +66,7 @@ landing-subtitle: The space that hosts my blog and portfolio, which are made by
             At some point, I found my initial motivation of writing is to share what I know, and I value for, as the giveback to what I learned from others.
             Every post makes me feel rewarding, and I think it's a long term win to keep my life enthusiastic.
             My interest sometimes shifts around, currently I'm interested in code :computer:, design :art:, music :headphones:, and mobile photography :camera:.</p>
-            <ul class="actions">
-                <li><a href="blog" class="button next">Read all</a></li>
-            </ul>
+            <a href="blog" class="button next">Read all</a>
         </div>
     </section>
 
