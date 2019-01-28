@@ -95,6 +95,10 @@ facebook:
   admins:
 logo: /assets/img/favicon.png
 
+webmaster_verifications:
+  google: a4qPo342AhdO2q2TS0q-fULpsf7uojeSljoUgi98BEI
+  baidu: FR0xXvbqQ0
+
 sass:
   style: :compressed
 
