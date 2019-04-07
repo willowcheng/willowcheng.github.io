@@ -18,6 +18,7 @@ permalink: /portfolio/people-there/
     <div class="4u 12u$(small)">
         <span class="image fit"><img src="/assets/img/light-mirror.jpg" alt="Light mirror" /></span>
         <span class="image fit"><img src="/assets/img/train-station.jpg" alt="Train station" /></span>
+        <span class="image fit"><img src="/assets/img/forward.jpg" alt="Forward" /></span>
     </div>
     <div class="4u$ 12u$(small)">
         <span class="image fit"><img src="/assets/img/there.jpg" alt="There" /></span>

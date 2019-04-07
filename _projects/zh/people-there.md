@@ -18,6 +18,7 @@ permalink: /zh/portfolio/people-there/
     <div class="4u 12u$(small)">
         <span class="image fit"><img src="/assets/img/light-mirror.jpg" alt="光镜" /></span>
         <span class="image fit"><img src="/assets/img/train-station.jpg" alt="车站" /></span>
+        <span class="image fit"><img src="/assets/img/forward.jpg" alt="前面" /></span>
     </div>
     <div class="4u$ 12u$(small)">
         <span class="image fit"><img src="/assets/img/there.jpg" alt="那里" /></span>
