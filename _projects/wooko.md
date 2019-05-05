@@ -5,7 +5,6 @@ description: Mobile app for learning and teaching local courses
 image: /assets/img/wooko.jpg
 category: design
 tag: ios | android | design
-recent: yes
 permalink: /portfolio/wooko/
 redirect_from: /projects/wooko/
 ---
