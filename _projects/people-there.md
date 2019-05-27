@@ -3,7 +3,6 @@ lang: en
 title: People There
 description: Expression, faces, and moments
 image: /assets/img/lake.jpg
-recent: yes
 category: photography
 tag: photography | portrait
 permalink: /portfolio/people-there/

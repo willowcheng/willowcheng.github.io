@@ -4,9 +4,8 @@ title: Emerging Young Artists
 description: 艺外帐篷（Emerging Young Artists）是基于多伦多的非盈利组织，致力于通过艺术发展和展出来促进社区新新锐艺术家的作品
 image: /assets/img/emerging-young-artists.jpg
 recent: yes
-bilingual: no
 tag: shopify | 开发 | 设计
-permalink: /portfolio/emerging-young-artists/
+permalink: /zh/portfolio/emerging-young-artists/
 link: https://emergingyoungartists.org
 ---
 
