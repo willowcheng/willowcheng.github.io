@@ -19,6 +19,10 @@
 					</header>
 					{{ content }}
 				</div>
+
+				{% if page.title != "About" and page.title != "关于" %}
+					{% include disqus.html %}
+				{% endif %}
 			</article>
 		</div>
 
