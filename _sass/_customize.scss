@@ -51,7 +51,7 @@ img:not(.emoji):not(.badge):not(.avatar) {
   max-width: 100%;
 
   .article & {
-    max-width: 75%;
+    max-width: 90%;
 
     @include breakpoint(small) {
       max-width: 100%;
