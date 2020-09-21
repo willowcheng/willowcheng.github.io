@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: zh
-title: 关于
+title: 关于我
 tag: 思考 | 创造
 ---
 

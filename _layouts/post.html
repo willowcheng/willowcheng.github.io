@@ -8,23 +8,23 @@
 
 	{% include header.html %}
 
-		<div class="main alt">
-			<article>
-				<div class="inner">
-					<header class="major">
-						<h1>{{ page.title }}</h1>
-						<p>{% if page.lang == "zh" %}{{ page.date | date: "%Y年%m月%d日" }}{% else %}<i>{{ page.date | date: "%b %d, %Y" }}</i>{% endif %}</p>
-						{% if page.tag %}<p class="icon fa-tag"> {{ page.tag }}</p>{% endif %}
-						{% if page.link %}<p class="icon fa-link"> {{ page.link }} <a class="icon fa-arrow-circle-right" href="{{ page.link }}"></a></p>{% endif %}
-					</header>
-					{{ content }}
-				</div>
+	<div class="main alt">
+		<article>
+			<div class="inner">
+				<header class="major">
+					<h1>{{ page.title }}</h1>
+					<p>{% if page.lang == "zh" %}{{ page.date | date: "%Y年%m月%d日" }}{% else %}<i>{{ page.date | date: "%b %d, %Y" }}</i>{% endif %}</p>
+					{% if page.tag %}<p class="icon fa-tag"> {{ page.tag }}</p>{% endif %}
+					{% if page.link %}<p class="icon fa-link"> {{ page.link }} <a class="icon fa-arrow-circle-right" href="{{ page.link }}"></a></p>{% endif %}
+				</header>
+				{{ content }}
+			</div>
 
-				{% if page.title != "About" and page.title != "关于" %}
-					{% include disqus.html %}
-				{% endif %}
-			</article>
-		</div>
+			{% if page.title != "About" and page.title != "关于" %}
+				{% include disqus.html %}
+			{% endif %}
+		</article>
+	</div>
 
 	{% include contact.html %}
 	{% include footer.html %}

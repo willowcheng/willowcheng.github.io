@@ -38,9 +38,19 @@ landing-subtitle: 这里寄宿着我用心写的博客和过往的作品
             <ul>
                 <li>Shopify商店咨询与主题修改 :computer:</li>
                 <li>网站SEO优化 🔧</li>
-                <li>手机APP设计 :art:</li>
+                <li>网页与手机App设计 :art:</li>
             </ul>
             <a href="portfolio" class="button next">查看更多案例与作品</a>
+        </div>
+    </section>
+    
+    <section class="spotlights">
+        <div class="inner">
+            <header class="major">
+                <h2>小卖部</h2>
+            </header>
+            <div id='product'></div>
+            <script src="{{ site.baseurl }}/assets/js/shop-zh.js"></script>
         </div>
     </section>
 

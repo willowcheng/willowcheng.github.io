@@ -41,9 +41,19 @@ landing-subtitle: The space that hosts my blog and portfolio, which are made by
             <ul>
                 <li>Shopify store consulting and theme development :computer:</li>
                 <li>Website SEO optimization 🔧</li>
-                <li>Mobile App design :art:</li>
+                <li>Website and mobile App design :art:</li>
             </ul>
             <a href="portfolio" class="button next">More of my work</a>
+        </div>
+    </section>
+    
+    <section class="spotlights">
+        <div class="inner">
+            <header class="major">
+                <h2>Shop</h2>
+            </header>
+            <div id='product'></div>
+            <script src="{{ site.baseurl }}/assets/js/shop.js"></script>
         </div>
     </section>
 
