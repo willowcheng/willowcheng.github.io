@@ -19,6 +19,5 @@ redirect_from: /projects/wooko/
     <p>The graphics of monkey king character is designed by graphic designer and I really love the feeling of this monkey king. Following are several portraits of him. Yup, he is cute.</p>
     <img src="/assets/img/wooko-portrait.png" style="width: 100%; margin-bottom: 8px;" alt="Monkey king character for Wooko" />
     <a class="download badge" href="https://itunes.apple.com/us/app/wooko/id1206772108?ls=1&mt=8"><img class="badge" src="/assets/img/app-store-download.svg" alt="App store download badge" /></a>
-    <a class="download badge" href="#"><img class="badge" src="/assets/img/google-play-download.svg" alt="Play store download badge" /></a>
     </div>
 </div>
