@@ -17,9 +17,9 @@ link: https://emergingyoungartists.org
         <p>设计方面使用了粉色作为高亮色彩，大量采用了富有美感的和相关艺术家与项目的图片来让整个网站显得充实，在黑白为基调的文字和背景下，主题色彩突出而不为过，同时文字也容易阅读。主题整体风格以简洁、对比强烈为主，符合当下审美趋势。:art:</p>
         <p>网站内容方面包括了艺术家（Artists）、项目（Projects）和新闻（News）三大板块。</p>
         <ul>
-            <li><a href="https://emergingyoungartists.org/collections/artists" target="_blank">艺术家</a>：汇总了所有在EYA演出的艺术家，支持时间与字母排序，从整体美观度考量，所有图片均为正方形比例切片以增强美感。</li>
-            <li><a href="https://emergingyoungartists.org/pages/projects" target="_blank">项目</a>：包含了EYA往期所有的演出、展览和活动，单个项目下展示该项目相关的艺术家信息。</li>
-            <li><a href="https://emergingyoungartists.org/blogs/news" target="_blank">新闻</a>：最新的项目预告以及相关信息将在活动栏目里刊登，包含了时间、地点、项目类型、相关门票信息和简介，项目结束后会整理成项目展示在项目里。</li>
+            <li><a href="https://emergingyoungartists.org/artists" target="_blank">艺术家</a>：汇总了所有在EYA演出的艺术家，支持时间与字母排序，从整体美观度考量，所有图片均为正方形比例切片以增强美感。</li>
+            <li><a href="https://emergingyoungartists.org/exhibition" target="_blank">项目</a>：包含了EYA往期所有的演出、展览和活动，单个项目下展示该项目相关的艺术家信息。</li>
+            <li><a href="https://emergingyoungartists.org/workshop" target="_blank">新闻</a>：最新的项目预告以及相关信息将在活动栏目里刊登，包含了时间、地点、项目类型、相关门票信息和简介，项目结束后会整理成项目展示在项目里。</li>
         </ul>
         <p>网站首页集成了Eventbrite销售项目的门票链接，方便访客最快时间找到即将开展的活动信息。</p>
         <p>项目页面是Shopify本身并不具备的功能，在这方面我下了很多功夫，核心方案是利用变形的Page模版，获取所有项目作为的Shopify产品集合并展示，每个项目链接到相关页面下。具体实现细节可以参考我写的这两篇关于Shopify添加项目的博文（英文）：</p>

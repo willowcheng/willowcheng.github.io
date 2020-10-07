@@ -19,6 +19,6 @@ redirect_from: /zh/projects/wooko/
     <p>悟空形象的图形设计是由专业的图形设计师负责，真的很喜欢设计出的卡通人物风格（虽然自己没有这种图形设计能力 :pensive:）。</p>
     <img src="/assets/img/wooko-portrait.png" style="width: 100%; margin-bottom: 8px;" alt="Wooko 中悟空的形象" />
     <a class="download badge" href="https://itunes.apple.com/us/app/wooko/id1206772108?ls=1&mt=8"><img class="badge" src="/assets/img/app-store-download.svg" alt="App store 下载图标" /></a>
-    <a class="download badge" href="https://play.google.com/store/apps/details?id=com.wooko.wooko"><img class="badge" src="/assets/img/google-play-download.svg" alt="谷歌 Play store 下载图标" /></a>
+    <a class="download badge" href="#"><img class="badge" src="/assets/img/google-play-download.svg" alt="谷歌 Play store 下载图标" /></a>
     </div>
 </div>
