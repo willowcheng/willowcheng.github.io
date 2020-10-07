@@ -39,7 +39,9 @@
                 },
                 "carousel-button": {
                   "display": "none"
-                }
+                },
+                "max-width": "400px",
+                "margin-left": "0"
               },
               "title": {
                 "font-family": "-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft Yahei',Roboto,Oxygen,Ubuntu,Cantarell,'Fira Sans','Droid Sans','Helvetica Neue',Arial,sans-serif",
@@ -83,7 +85,7 @@
               "imgWithCarousel": true,
               "options": false
             },
-            "width": "380px",
+            "width": "800px",
             "text": {
               "button": "View details"
             },
@@ -150,6 +152,7 @@
                 "color": "#000000"
               }
             },
+            "width": "1030px",
             "text": {
               "button": "Add to cart",
               "font-weight": "700",
