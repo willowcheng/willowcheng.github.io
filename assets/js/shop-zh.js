@@ -20,7 +20,7 @@
 
   function ShopifyBuyInit() {
     var client = ShopifyBuy.buildClient({
-      domain: 'willowcheng.myshopify.com',
+      domain: 'shop.willowcheng.com',
       storefrontAccessToken: '85bdc1b4d79f3db3f111d9caad08d947',
       language: 'zh-CN',
     });
