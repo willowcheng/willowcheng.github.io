@@ -71,6 +71,10 @@
 			height: 26px;
 			margin: auto auto auto 0;
 			padding: 0;
+
+			img {
+				max-width: 100%;
+			}
 		}
 
         .lang-switcher {
