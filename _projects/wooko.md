@@ -18,6 +18,5 @@ redirect_from: /projects/wooko/
     <p>I joined as freelance UI designer for co-founders. Has taken consideration to have mix Chinese character of monkey king, the app itself provides delight and universal look regarding mobile platforms. The application is currently available in both App Store (iOS) and Play Store (Android).</p>
     <p>The graphics of monkey king character is designed by graphic designer and I really love the feeling of this monkey king. Following are several portraits of him. Yup, he is cute.</p>
     <img src="/assets/img/wooko-portrait.png" style="width: 100%; margin-bottom: 8px;" alt="Monkey king character for Wooko" />
-    <a class="download badge" href="https://itunes.apple.com/us/app/wooko/id1206772108?ls=1&mt=8"><img class="badge" src="/assets/img/app-store-download.svg" alt="App store download badge" /></a>
     </div>
 </div>
