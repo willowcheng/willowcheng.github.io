@@ -61,7 +61,7 @@
                 ":focus": {
                   "background-color": "#ffffff",
                 },
-                "border-radius": "0",
+                "border-radius": "5px",
                 "box-shadow": "inset 0 0 0 2px #000",
                 "padding-left": "46px",
                 "padding-right": "46px",
@@ -123,7 +123,7 @@
                 ":focus": {
                   "background-color": "#ffffff"
                 },
-                "border-radius": "0",
+                "border-radius": "5px",
                 "box-shadow": "inset 0 0 0 2px #000",
                 "padding-left": "46px",
                 "padding-right": "46px",
@@ -171,7 +171,7 @@
                 ":focus": {
                   "background-color": "#ffffff"
                 },
-                "border-radius": "0",
+                "border-radius": "5px",
                 "box-shadow": "inset 0 0 0 2px #000",
                 "padding-left": "46px",
                 "padding-right": "46px",
@@ -243,7 +243,7 @@
           "toggle": {
             "styles": {
               "toggle": {
-                "border-radius": "0",
+                "border-radius": "5px 0 0 5px",
                 "font-family": "-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft Yahei',Roboto,Oxygen,Ubuntu,Cantarell,'Fira Sans','Droid Sans','Helvetica Neue',Arial,sans-serif",
                 "background-color": "#000000",
                 ":hover": {
@@ -285,7 +285,7 @@
                 "color": "#000000",
                 "border": "1.5px solid #000",
                 "border-left": "none",
-                "border-radius": "0",
+                "border-radius": "0 5px 5px 0",
                 ":hover": {
                   "background-color": "rgba(52,52,52,0.1)"
                 },
@@ -294,7 +294,7 @@
                 "color": "#000000",
                 "border": "1.5px solid #000",
                 "border-right": "none",
-                "border-radius": "0",
+                "border-radius": "5px 0 0 5px",
                 ":hover": {
                   "background-color": "rgba(52,52,52,0.1)"
                 },

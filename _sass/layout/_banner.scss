@@ -62,6 +62,7 @@
 
 				> :first-child {
 					width: auto;
+					max-width: 20ch;
 
 					&:after {
 						max-width: 100%;

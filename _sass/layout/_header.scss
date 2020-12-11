@@ -47,9 +47,10 @@
 				background-color: _palette(fg-bold);
 				color: _palette(bg);
 				display: inline-block;
+				border-radius: 5px;
 				line-height: 1.65em;
 				margin-right: 0.325em;
-				padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
+				padding: 0 0.325em 0 (_font(letter-spacing-alt) + 0.325em);
 			}
 
 			&:hover {
