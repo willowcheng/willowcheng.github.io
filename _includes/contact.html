@@ -1,7 +1,7 @@
 <section id="contact" class="clearfix">
     <div class="inner">
         <section>
-            <form action="https://formspree.io/{{ site.email }}" method="POST">
+            <form action="https://formspree.io/f/{{ site.form_id }}" method="POST">
                 <div class="field half first">
                     <label for="name">{% if page.lang == "zh" %}姓名{% else %}Name{% endif %}</label>
                     <input type="text" name="name" id="name" />
